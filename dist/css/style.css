@@ -1,0 +1,278 @@
+body {
+  margin-top: 110px; }
+
+.navbar {
+  box-shadow: 2px 2px 5px #161B2E;
+  opacity: 0.9;
+  background: #fff;
+  color: black; }
+  .navbar .nav-item {
+    color: black;
+    font-size: 1.2rem;
+    padding-right: 1.4rem; }
+    .navbar .nav-item .text-nav {
+      color: black; }
+
+#showcase {
+  position: relative;
+  background: #161B2E;
+  width: 100%;
+  min-height: 200px;
+  border-bottom: none; }
+
+#showcase2 {
+  position: relative;
+  background: #161B2E;
+  width: 100%;
+  min-height: 100px;
+  border-bottom: none; }
+
+#who-is-site-for {
+  position: relative;
+  color: white;
+  background: #1e798b; }
+  #who-is-site-for .info-header {
+    width: 70%;
+    margin: auto;
+    border-bottom: 1px #ddd solid; }
+
+#footerindex {
+  background: #161B2E; }
+
+#authors img {
+  margin-top: -50px; }
+#authors .card:hover {
+  background: #1e798b;
+  color: white; }
+  #authors .card:hover .fas {
+    color: white; }
+  #authors .card:hover .fab {
+    color: white; }
+#authors .fas {
+  color: #1e798b; }
+#authors .fab {
+  color: #1e798b; }
+
+@media (max-width: 768px) {
+  #showcase {
+    position: relative;
+    margin-top: 10px;
+    background: purple;
+    height: 550px;
+    border-bottom: none; }
+    #showcase h1 {
+      font-size: 3.5rem; }
+
+  .mb-resp {
+    margin-bottom: 1rem; }
+
+  #resources-list .card {
+    height: 600px; }
+  #resources-list .card-height {
+    height: 450px;
+    border-color: blue; }
+  #resources-list .card-text {
+    height: 100%;
+    border-color: red; }
+  #resources-list .card-img-top {
+    border-color: red;
+    height: 90%;
+    width: 90%; }
+
+  #about .info-header {
+    padding: 0px;
+    margin: 0px;
+    width: 100%; }
+  #about p {
+    text-align: justify;
+    color: green; }
+
+  #about2 .info-header {
+    padding: 0px;
+    margin: 0px;
+    width: 100%; }
+
+  #about-content .info-header {
+    padding: 0px;
+    margin: 0px;
+    width: 100%; }
+
+  #showcase-coding {
+    position: relative;
+    margin-top: 10px;
+    background: green;
+    height: 300px;
+    border-bottom: none; }
+    #showcase-coding h1 {
+      font-size: 2.2rem; }
+
+  #showcase-scratch {
+    position: relative;
+    margin-top: 10px;
+    background: white;
+    min-height: 800px;
+    border-bottom: none; }
+    #showcase-scratch h1 {
+      font-size: 3.3rem; } }
+#about-content {
+  width: 100%;
+  margin: auto; }
+  #about-content .heading {
+    font-size: 2.5rem;
+    color: #1e798b; }
+  #about-content .h1 {
+    font-size: 1rem;
+    color: pink; }
+
+#resources-list .card-height1 {
+  height: 500px;
+  border-color: red; }
+  #resources-list .card-height1 .card-img-top {
+    height: 250px; }
+#resources-list .card-body {
+  height: 250px; }
+#resources-list .card-text {
+  height: 160px; }
+#resources-list .card-height2 {
+  height: 500px;
+  border-color: purple; }
+  #resources-list .card-height2 .card-img-top {
+    height: 250px; }
+  #resources-list .card-height2 .card-body {
+    height: 500px; }
+#resources-list .card-height3 {
+  height: 500px;
+  border-color: blue; }
+  #resources-list .card-height3 .card-img-top {
+    height: 250px; }
+  #resources-list .card-height3 .card-body {
+    height: 500px; }
+#resources-list .card-height4 {
+  height: 500px;
+  border-color: green; }
+  #resources-list .card-height4 .card-img-top {
+    height: 250px; }
+
+#arduino-section {
+  position: relative;
+  color: black;
+  background: #f4f4f4; }
+  #arduino-section .center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 80px;
+    margin-top: 0px; }
+
+#rhaspberry-section {
+  position: relative;
+  color: black;
+  background: #f6f5fa; }
+  #rhaspberry-section .center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 1px;
+    margin-top: 0px; }
+
+#makey-section {
+  position: relative;
+  color: white;
+  background: #6600cc; }
+  #makey-section .col-lg {
+    padding-top: 80px; }
+  #makey-section .center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 40px;
+    margin-top: 0px; }
+  #makey-section .btn-outline-white {
+    color: white;
+    border: white; }
+
+#little-section {
+  position: relative;
+  color: black;
+  background: white; }
+  #little-section .center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 1px;
+    margin-top: 0px; }
+
+#ulstyle {
+  list-style: none; }
+
+@media (max-width: 768px) {
+  #resources-list .card-img-top {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 50%;
+    width: 50%;
+    font-size: 8px; }
+  #resources-list .card-height1 {
+    height: 500px;
+    border-color: black; }
+  #resources-list .card-height2 {
+    height: 500px;
+    border-color: purple; }
+  #resources-list .card-height3 {
+    height: 500px;
+    border-color: blue; }
+  #resources-list .card-height4 {
+    height: 500px;
+    border-color: green; }
+  #resources-list .card-text {
+    height: 40%; }
+
+  #arduino-section {
+    position: relative;
+    color: black;
+    background: #f4f4f4; }
+    #arduino-section .center-block {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      padding-top: 2px; } }
+#showcase-coding {
+  position: relative;
+  margin-top: 10px;
+  background: purple;
+  min-height: 280px;
+  border-bottom: 1px #ddd solid; }
+  #showcase-coding p {
+    border-bottom: 1px black solid; }
+
+#showcase-scratch {
+  background: #dfdfdf; }
+
+#freecodecamp {
+  background: white; }
+
+#project-list .card-height1 {
+  height: 170px;
+  border-color: red; }
+  #project-list .card-height1 .card-img-top {
+    height: 1px; }
+#project-list .card-text {
+  height: 80px; }
+#project-list .card-height2 {
+  height: 170px;
+  border-color: purple; }
+  #project-list .card-height2 .card-img-top {
+    height: 1px; }
+#project-list .card-height3 {
+  height: 170px;
+  border-color: green; }
+  #project-list .card-height3 .card-img-top {
+    height: 1px; }
+#project-list .card-height4 {
+  height: 500px;
+  border-color: green; }
+  #project-list .card-height4 .card-img-top {
+    height: 250px; }
+
+/*# sourceMappingURL=style.css.map */

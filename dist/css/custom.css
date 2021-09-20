@@ -1,0 +1,49 @@
+body {
+    margin-top: 110px; }
+  
+  .navbar {
+    box-shadow: 2px 2px 5px #161B2E;
+    opacity: 0.9;
+    background: #fff;
+    color: black; }
+    .navbar .nav-item {
+      color: black;
+      font-size: 1.2rem;
+      padding-right: 1.4rem; }
+      .navbar .nav-item .text-nav {
+        color: black; }
+  
+  #showcase {
+    position: relative;
+    background: #161B2E;
+    width: 100%;
+    
+    border-bottom: none; }
+
+    #footerindex {
+        background: #161B2E; }
+
+    #project-list .card-height1 {
+        height: 170px;
+        border-color: red; }
+        #project-list .card-height1 .card-img-top {
+          height: 1px; }
+      #project-list .card-text {
+        height: 80px; }
+      #project-list .card-height2 {
+        height: 170px;
+        border-color: purple; }
+        #project-list .card-height2 .card-img-top {
+          height: 1px; }
+      #project-list .card-height3 {
+        height: 170px;
+        border-color: green; }
+        #project-list .card-height3 .card-img-top {
+          height: 1px; }
+      #project-list .card-height4 {
+        height: 500px;
+        border-color: green; }
+        #project-list .card-height4 .card-img-top {
+          height: 250px; }
+
+     
