@@ -1,0 +1,31 @@
+body {
+
+
+}
+
+.navbar {
+
+   
+    margin: 2px;
+    min-width: 10vw;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+.content{
+    min-width: 50vw;
+    min-height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.content div {
+    width: 50vw;
+    margin: 30px;
+}
