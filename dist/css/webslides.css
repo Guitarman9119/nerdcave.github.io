@@ -1,7 +1,7 @@
 /*!
  * Name: WebSlides
- * Version: 1.5.0
- * Date: 2017-09-16
+ * Version: 1.4.2
+ * Date: 2017-09-12
  * Description: Making HTML presentations easy
  * URL: https://github.com/webslides/webslides#readme
  * Credits: @jlantunez, @LuisSacristan, @Belelros
@@ -670,11 +670,7 @@ https://github.com/daneden/animate.css */
     right: 0;
     top: 0;
     /* 1. No object-fit support: */ }
-    .fullscreen > .embed > iframe,
-    .fullscreen > .embed > object,
-    .fullscreen > .embed > embed,
-    .fullscreen > .embed > video {
-      /* 2. If supporting object-fit, overriding (1): */ }
+ 
       @media (min-aspect-ratio: 16 / 9) {
         .fullscreen > .embed > iframe,
         .fullscreen > .embed > object,
@@ -3789,7 +3785,6 @@ Slides Index
 
 .text-slide-number {
   color: #abc; }
-
 
   .animate-show {
     display: none !important;
