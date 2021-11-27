@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 942 708" style="enable-background:new 0 0 942 708;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#8BFFB8;}
+	.st1{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+	.st2{font-family:'MyriadPro-Regular';}
+	.st3{font-size:93.5233px;}
+</style>
+<g>
+	<g id="XMLID_00000170981427997949125640000007134009082209543324_">
+		<g>
+			<polygon class="st0" points="940,2 940,119.33 627.33,119.33 314.67,119.33 2,119.33 2,2 			"/>
+		</g>
+		<g>
+			<polyline class="st1" points="2,119.33 2,2 940,2 940,119.33 			"/>
+			<polygon class="st1" points="940,119.33 940,236.67 940,354 940,471.33 940,588.67 940,706 627.33,706 314.67,706 2,706 
+				2,588.67 2,471.33 2,354 2,236.67 2,119.33 314.67,119.33 627.33,119.33 			"/>
+			<polyline class="st1" points="2,588.67 314.67,588.67 627.33,588.67 940,588.67 			"/>
+			<polyline class="st1" points="2,471.33 314.67,471.33 627.33,471.33 940,471.33 			"/>
+			<polyline class="st1" points="2,354 314.67,354 627.33,354 940,354 			"/>
+			<polyline class="st1" points="2,236.67 314.67,236.67 627.33,236.67 940,236.67 			"/>
+			<polyline class="st1" points="627.33,706 627.33,588.67 627.33,471.33 627.33,354 627.33,236.67 627.33,119.33 			"/>
+			<polyline class="st1" points="314.67,706 314.67,588.67 314.67,471.33 314.67,354 314.67,236.67 314.67,119.33 			"/>
+		</g>
+	</g>
+</g>
+<text transform="matrix(0.9756 0 0 1 256.5781 94.2266)" class="st2 st3">Truth Table</text>
+<text transform="matrix(0.9756 0 0 1 122.3853 208.6519)" class="st2 st3">A</text>
+<text transform="matrix(0.9756 0 0 1 442.6297 208.652)" class="st2 st3">B</text>
+<text transform="matrix(0.9756 0 0 1 713.6297 208.652)" class="st2 st3">LED</text>
+<text transform="matrix(0.9756 0 0 1 124.6297 328.652)" class="st2 st3">0</text>
+<text transform="matrix(0.9756 0 0 1 124.6297 446.652)" class="st2 st3">0</text>
+<text transform="matrix(0.9756 0 0 1 124.6297 568.652)" class="st2 st3">1</text>
+<text transform="matrix(0.9756 0 0 1 126.6297 680.652)" class="st2 st3">1</text>
+<text transform="matrix(0.9756 0 0 1 437.6297 328.652)" class="st2 st3">0</text>
+<text transform="matrix(0.9756 0 0 1 439.6297 446.652)" class="st2 st3">1</text>
+<text transform="matrix(0.9756 0 0 1 441.6297 568.652)" class="st2 st3">0</text>
+<text transform="matrix(0.9756 0 0 1 439.6297 680.652)" class="st2 st3">1</text>
+<text transform="matrix(0.9756 0 0 1 751.6297 328.652)" class="st2 st3">0</text>
+<text transform="matrix(0.9756 0 0 1 753.6297 446.652)" class="st2 st3">0</text>
+<text transform="matrix(0.9756 0 0 1 753.6297 559.652)" class="st2 st3">0</text>
+<text transform="matrix(0.9756 0 0 1 755.6297 680.652)" class="st2 st3">1</text>
+</svg>

@@ -35,12 +35,10 @@
   <script src="/dist/js/webslides/d3.min.js"></script>
   <script src="/dist/js/webslides/tnt-webslides.js"></script>
 
-  <link
-  rel="stylesheet"
-  href="https://use.fontawesome.com/releases/v5.7.2/css/all.css"
-  integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr"
-  crossorigin="anonymous"
-/>
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css"
+    integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous" />
+
+
 
 
 
@@ -62,11 +60,14 @@ opacity: 0.7;  ">
   <main role="main">
     <article id="webslides" class="horizontal">
 
-      <!-- SLIDE -->
+      <!-- Slide Title -->
+
+
       <section class="bg-apple warp">
         <div class="wrap aligncenter main-title-div">
           <div>
-            <h1 >Scribble Robot</h1>
+            <h1>Logic Gate Learning Board</h1>
+            <p>Practical</p>
           </div>
           <br>
         </div>
@@ -74,56 +75,103 @@ opacity: 0.7;  ">
 
 
 
-<!--Objective and Outcome slide-->
+      <!--Objective and Outcome slide-->
 
 
-<section class="bg-apple warp">
-  <span data-step-count=4></span>
-  
-  <div>
-    <h1 class=" aligncenter " style="display:flex; flex-direction: column;">Lesson Objective</h1>
-    
-      <ul class="column" style="display:flex; flex-direction: column; align-items:left; padding: 20px">
-        <li class="animate-show-visibility" data-step=1>
-          <p class="" style=" padding: 20px">Learn the basics of robots and electric circuits</p>
-        </li>
-        <li class="animate-show-visibility" data-step=2>
-          <p class="" style=" padding: 20px">Learn electric symbols and how they are used. </p>
-        </li>
-      </ul>
-    
-  
-    
- 
-    <h1 class=" aligncenter  animate-show-visibility" data-step="3">Lesson Outcome</h1>
-  
-      <ul class="column" style="display:flex; flex-direction: column; align-items:left; padding: 20px">
-        <li class="animate-show-visibility" data-step=4>
-          <p class="" style=" padding: 20px">Building a scribble robot to create art.</p>
-        </li>
-   
-      </ul>
-    
- 
-</div>
-  
-</section>
-
-          
-              
-         
-
-
-        
-       
-     
-
-      <!-- SLIDE -->
       <section class="bg-apple warp">
-        <div class="warp aligncenter">
-          <h1><strong>Why Webslides?</strong></h1>
+        <span data-step-count=5></span>
+
+        <div>
+          <h1 class=" aligncenter " style="display:flex; flex-direction: column;">Lesson Objective</h1>
+
+          <ul class="column" style="display:flex; flex-direction: column; align-items:left; padding: 20px">
+            <li class="animate-show-visibility" data-step=1>
+              <p class="" style=" padding: 20px">Review logic gates</p>
+            </li>
+            <li class="animate-show-visibility" data-step=2>
+              <p class="" style=" padding: 20px">Learn the basic of a transistor</p>
+            </li>
+            <li class="animate-show-visibility" data-step=3>
+              <p class="" style=" padding: 20px">Safety guidelines and operation of soldering iron</p>
+            </li>
+          </ul>
+
+
+
+
+          <h1 class=" aligncenter  animate-show-visibility" data-step="4">Lesson Outcome</h1>
+
+          <ul class="column" style="display:flex; flex-direction: column; align-items:left; padding: 20px">
+            <li class="animate-show-visibility" data-step=5>
+              <p class="" style=" padding: 20px">To solder and test a logic gate learning board</p>
+            </li>
+
+          </ul>
+
+
+        </div>
+
+      </section>
+
+
+
+
+
+
+
+
+
+
+      <!--Do now activity-->
+      <section class="bg-apple warp">
+        <span data-step-count=1></span>
+        <div class="warp aligncenter ">
+          <h1><strong>Do now activity</strong></h1>
+          <p style="margin-bottom: 50px;">Why do computers use binary numbers 1 or 0 / base 2 number system. Discuss
+            with your partner for 2-3 minutes.</p>
+        </div>
+
+    
+        <div id="app" class=" position: aligncenter animate-show-visibility " data-step=1>
+
+          <script src="/dist/js/webslides/timer.js" class="animate-show-visibility " data-step=1></script>
+
+        </div>
+        
+      </section>
+
+
+
+      <!--Do now activity-->
+      <section class="bg-apple warp">
+        <span data-step-count=2></span>
+        <div class="warp aligncenter ">
+          <h1><strong>Let's look at the following circuit together</strong></h1>
+          <img src="/website content/English/programming/igcse/Logic Gates/images/Untitled-1.svg" width="200px" alt="">
+          <p>The LED will only be on, if both switch A and B is closed. This form some sort of <strong>logic
+              operation</strong> . Let’s represent an open switch as 0 and closed switch as one. LED on as 1 and off as
+            0. Representing this in a table we get:
+          </p>
+          <img src="/website content/English/programming/igcse/Logic Gates/images/Untitled-1.svg" width="300px"
+            style="background-color: white;" alt="">
         </div>
       </section>
+
+
+      <section class="bg-apple warp">
+        <span data-step-count=2></span>
+       
+        <div class="warp aligncenter ">
+          <h1><strong>Activity 1: Draw the correct Logic Symbol next to the matching Truth Table on Activity 1</strong></h1>
+          <div class="flexblock">
+          <img class="animate-show-visibility aligncenter" data-step=1 src="/website content/English/programming/igcse/Logic Gates/images/AND-GATE.svg" width="350px" alt="" style="background-color: white;">
+          <img class="animate-show-visibility aligncenter" data-step=2 src="/website content/English/programming/igcse/Logic Gates/images/AND-GATE.svg" width="350px" alt="" style="background-color: white;">
+    
+       
+        </div>
+      </section>
+
+
 
       <!-- SLIDE -->
       <section class="bg-apple warp">
@@ -412,8 +460,11 @@ opacity: 0.7;  ">
     </footer>  -->
 
   <!-- Required -->
+
   <script src="/dist/js/webslides/webslides.js "></script>
   <script src="/dist/js/webslides-animation.js"></script>
+
+
 
   <script>
     const WARP_SPEED_MAX = 14;
@@ -446,6 +497,7 @@ opacity: 0.7;  ">
       }
     })
 
+
     // try to connect elements on each slide change
     $("article")[0].addEventListener("ws:slide-change", () => {
       connectDivs(".left-item", '.right-item');
@@ -461,6 +513,7 @@ opacity: 0.7;  ">
       return false;
     });
   </script>
+
 
   <!-- Typewriter -->
   <script>
@@ -524,6 +577,8 @@ opacity: 0.7;  ">
       });
     });
   </script>
+
+
 
 
 
