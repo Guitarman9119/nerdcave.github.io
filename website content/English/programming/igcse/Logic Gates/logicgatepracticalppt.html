@@ -1,0 +1,257 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+
+	<title>Logic Gate - Review and Practical</title>
+
+	<meta name="description" content="A lesson on boolean gates and simple circuitry">
+	<meta name="author" content="Vernon Wayne Peens">
+
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<link rel="stylesheet" href="/dist/reset.css">
+	<link rel="stylesheet" href="/dist/reveal.css">
+	<link rel="stylesheet" href="/dist/theme/white.css" id="theme">
+	<link rel="stylesheet" href="/dist/revealjstemplates.css">
+
+
+	<!-- Theme used for syntax highlighting of code -->
+	<link rel="stylesheet" href="/plugin/highlight/monokai.css">
+</head>
+
+<body>
+
+	<div class="reveal">
+
+		<!-- Any section element inside of this container is displayed as a slide -->
+		<div class="slides">
+
+			<!--First slide website logo, lesson title and contributor-->
+			<section>
+				<a href="https://revealjs.com">
+					<!--	<img src="https://static.slid.es/reveal/logo-v1/reveal-white-text.svg" alt="reveal.js logo" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"> -->
+				</a>
+				<h3> Logic Gates and Circuits
+				</h3>
+				<p>
+					Review - Practical
+				</p>
+			</section>
+
+
+
+
+	
+
+
+			<section>
+				<section id="fragments">
+					<h2>Lesson Objective</h2>
+					<ul class="fragment">
+						<li class="fragment">Review logic gates </li>
+						<li class="fragment">Learn the basic of a transistor</li>
+						<li class="fragment">Safety guidelines and operation of soldering iron</li>
+					</ul>
+					<br>
+					<br>
+					<h2 class="fragment">Lesson Outcome</h2>
+					<ul class="fragment">
+						<li>To solder and test a logic gate learning board </li>
+					</ul>
+
+
+				</section>
+
+			</section>
+
+
+
+			<section id="fragments">
+				<h2>Do now activity</h2>
+			
+				<p>Why do computers use binary numbers (1's or 0's / base 2 number system)?
+					<br> Discuss
+					with your partner for 2-3 minutes.</p>
+				
+					<button id="zebutton" class=" justify-center " onclick="startTimer(), document.getElementById('zebutton').style.visibility='hidden';" style="margin-bottom: 50px;" >Start</button>
+					<div id="app" class="justify-center" style="display: flex;
+					align-items: center;
+					justify-content: center;" >
+						
+						
+						<script src="/dist/js/webslides/timer.js" class=" " style="align-items: center; color: red;" >
+						</script>
+					</div>
+
+
+
+			</section>
+
+
+
+<!--
+Look at circuit together
+-->
+			<section>
+				<section id="fragments">
+					<h3 style="font-size: 1em !important;">Let's look at the following circuit together</h3>
+
+					<img src="/website content/English/programming/igcse/Logic Gates/images/Answer-08-08-08.svg" width="400px" alt="">
+					<p  style="text-align: left; font-size: 0.6em !important;">The LED will only be on, if both switch A and B is closed. This form some sort of <strong>logic
+						operation</strong> . Let’s represent an open switch as 0 and closed switch as one. LED on as 1 and off as
+					  0. Representing this in a table we get:
+					</p>
+
+					<img src="/website content/English/programming/igcse/Logic Gates/images/Untitled-1.svg" width="200px"
+					style="background-color: white;" alt="" class="fragment">
+				
+				
+
+
+				</section>
+
+			</section>
+
+
+			<section>
+				
+					<h3>Activity 1: Draw the correct Logic Symbol next to the matching Truth Table on Activity 1</h3>
+					<img class="r-stretch"  src="/website content/English/programming/igcse/Logic Gates/images/activity1-09.svg"  alt="" style="background-color: whitesmoke !important;">
+
+
+
+			</section>
+
+
+
+			<section>
+				<h3>Activity 1: Answers</h3>
+				<img class="r-stretch"  src="/website content/English/programming/igcse/Logic Gates/images/Answer-08-08-08.svg"  alt="" style="background-color: whitesmoke !important;">
+		</section>
+
+
+
+		<section id="fragments">
+			<h4>Your computer consist of BILLIONS of transistors how do switch them all?</h4>
+			<h3 class="fragment">We use Transistors</h3>
+			<img class="fragment "  src="/website content/English/programming/igcse/Logic Gates/images/Transistor.jpg"  alt="" style="background-color: whitesmoke !important;">
+	</section>
+
+
+	<section class="bg-apple warp">
+	
+		<div class="warp aligncenter ">
+		  <h3>Transistor</h3>
+		  <p style=" font-size: 0.6em !important;">A transistor is a miniature electronic component that can do two different jobs. It can work either as an amplifier or a switch. Let's look at the operation of a transistor 
+			with the following <a href="https://tinyurl.com/yxavs975" target="_blank"> simulation</a>
+		  </p>
+		  <iframe class="aligncenter animate-show-visibility aligncenter" data-step=1 width="1024" height="706" src="https://tinyurl.com/yxavs975
+		  ">
+		  </iframe>
+	  </section>
+
+	           <!--Explanation of transistor-->
+			   <section class="bg-apple warp">
+				<span data-step-count=1></span>
+				<div class="aligncenter ">
+				  <h3>Logic Gate - Learning Board</h3>
+				  <p style=" font-size: 0.6em !important;">
+					Using software like <a href="https://oshwlab.com/vwpeens/logic-gates-board">EasyEDA</a> we can create a PCB (Printer Circuit Board), with ease. I present to you the board you will solder today:
+				  </p>
+				</div>
+	  
+				 
+					<img src ="/website content/English/programming/igcse/Logic Gates/images/pcb.svg"  alt="" style="background-color: whitesmoke !important;">
+					
+					  
+			  
+				 
+			  </section>
+
+
+
+
+			  <section class="bg-apple warp">
+                
+				
+				  <h3>How to Solder</h3>
+				  <p  style=" font-size: 0.6em !important;">
+					Soldering is an essential skill to know, for any person working with electronics. The following <a href="https://www.youtube.com/watch?v=Pjsoq-ZejRM" target="_blank"> video</a> video will show you how to solder on circuit boards.
+				  </p>
+				  <p>How NOT to hold a soldering iron</p>
+				  <img class="r-stretch" src ="/website content/English/programming/igcse/Logic Gates/images/soldernono.png"  alt="" style="background-color: whitesmoke !important;">
+				
+			  </section>
+
+
+			                       <!--Explanation of transistor-->
+								   <section class="bg-apple warp">
+                
+									<div class="aligncenter ">
+									  <h3>Practical</h3>
+									  <p style=" font-size: 0.6em !important;">
+										Using the worksheet, provided you will now solder your board. Make sure to check the component list and orientation of the components before soldering it to the board
+									  </p >
+									
+									  <p style=" font-size: 0.6em !important;"><strong>Your final board will look like this:</strong> </p>
+									</div>
+	  
+	  
+				
+								  </section>
+
+
+
+			<!-- Example of nested vertical slides -->
+	
+			
+		
+
+	
+
+	
+
+
+
+		
+		
+
+
+
+
+
+
+		
+
+
+
+			
+
+			<script src="/dist/reveal.js"></script>
+			<script src="/plugin/zoom/zoom.js"></script>
+			<script src="/plugin/notes/notes.js"></script>
+			<script src="/plugin/search/search.js"></script>
+			<script src="/plugin/markdown/markdown.js"></script>
+			<script src="/plugin/highlight/highlight.js"></script>
+			<script>
+				// Also available as an ES module, see:
+				// https://revealjs.com/initialization/
+				Reveal.initialize({
+					controls: true,
+					progress: true,
+					center: true,
+					hash: true,
+
+					// Learn about plugins: https://revealjs.com/plugins/
+					plugins: [RevealZoom, RevealNotes, RevealSearch, RevealMarkdown, RevealHighlight]
+				});
+			</script>
+
+</body>
+
+</html>
