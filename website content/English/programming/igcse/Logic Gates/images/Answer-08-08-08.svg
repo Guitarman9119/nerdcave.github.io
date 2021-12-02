@@ -1,8 +1,47 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 26.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 4586 2293" style="enable-background:new 0 0 4586 2293;" xml:space="preserve">
-<style type="text/css">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="Answer-08-08-08.svg"
+   id="svg416"
+   xml:space="preserve"
+   style="enable-background:new 0 0 4586 2293;"
+   viewBox="0 0 4586 2293"
+   y="0px"
+   x="0px"
+   version="1.1"><metadata
+   id="metadata422"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs420" /><sodipodi:namedview
+   inkscape:current-layer="Layer_1"
+   inkscape:window-maximized="1"
+   inkscape:window-y="368"
+   inkscape:window-x="-8"
+   inkscape:cy="969.74291"
+   inkscape:cx="2638.1909"
+   inkscape:zoom="0.22873964"
+   showgrid="false"
+   id="namedview418"
+   inkscape:window-height="1017"
+   inkscape:window-width="1920"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff" />
+<style
+   id="style2"
+   type="text/css">
 	.st0{fill:#8BFFB8;}
 	.st1{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
 	.st2{font-family:'MyriadPro-Regular';}
@@ -13,264 +52,863 @@
 	.st7{fill:none;stroke:#000000;stroke-width:10;stroke-linecap:square;stroke-miterlimit:1.8102;}
 	.st8{fill:none;stroke:#000000;stroke-width:10;}
 </style>
-<g id="Layer_1">
-	<text transform="matrix(0.9756 0 0 1 1346.1296 360.152)" class="st2 st3">X</text>
-	<g>
-		<g id="XMLID_00000043436093693545887910000017242013636919794359_">
-			<g>
-				<polygon class="st4" points="1475,57 1475,228 1271.86,228 1068.71,228 865.57,228 865.57,57 				"/>
-				<rect x="53" y="57" class="st4" width="812.57" height="171"/>
+<g
+   id="Layer_1">
+	<text
+   id="text4"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 1346.1296 360.152)">X</text>
+	<g
+   id="g35">
+		<g
+   id="XMLID_00000043436093693545887910000017242013636919794359_">
+			<g
+   id="g10">
+				<polygon
+   id="polygon6"
+   points="1475,57 1475,228 1271.86,228 1068.71,228 865.57,228 865.57,57     "
+   class="st4" />
+				<rect
+   id="rect8"
+   height="171"
+   width="812.57"
+   class="st4"
+   y="57"
+   x="53" />
 			</g>
-			<g>
-				<polyline class="st5" points="53,228 53,57 865.57,57 				"/>
-				<polyline class="st5" points="865.57,1083 53,1083 53,228 865.57,228 				"/>
-				<polyline class="st5" points="865.57,228 865.57,57 1475,57 1475,228 				"/>
-				<polygon class="st5" points="1475,228 1475,399 1475,570 1475,741 1475,912 1475,1083 1271.86,1083 1068.71,1083 865.57,1083 
-					865.57,912 865.57,741 865.57,570 865.57,399 865.57,228 1068.71,228 1271.86,228 				"/>
-				<polyline class="st5" points="1475,912 1271.86,912 1068.71,912 865.57,912 				"/>
-				<polyline class="st5" points="1475,741 1271.86,741 1068.71,741 865.57,741 				"/>
-				<polyline class="st5" points="1475,570 1271.86,570 1068.71,570 865.57,570 				"/>
-				<polyline class="st5" points="1475,399 1271.86,399 1068.71,399 865.57,399 				"/>
-				<polyline class="st5" points="1271.86,228 1271.86,399 1271.86,570 1271.86,741 1271.86,912 1271.86,1083 				"/>
-				<polyline class="st5" points="1068.71,228 1068.71,399 1068.71,570 1068.71,741 1068.71,912 1068.71,1083 				"/>
-			</g>
-		</g>
-	</g>
-	<text transform="matrix(0.9756 0 0 1 982.7412 186.4492)" class="st2 st3">Truth Table</text>
-	<text transform="matrix(0.9756 0 0 1 210.7412 187.4492)" class="st2 st3">Logic Symbol</text>
-	<text transform="matrix(0.9756 0 0 1 933.9856 359.4487)" class="st2 st3">A</text>
-	<text transform="matrix(0.9756 0 0 1 1145.179 359.4489)" class="st2 st3">B</text>
-	<text transform="matrix(0.9756 0 0 1 936.5024 525.4489)" class="st2 st3">0</text>
-	<text transform="matrix(0.9756 0 0 1 1152.5032 526.4489)" class="st2 st3">0</text>
-	<text transform="matrix(0.9756 0 0 1 936.5029 685.4489)" class="st2 st3">0</text>
-	<text transform="matrix(0.9756 0 0 1 1152.5024 686.4489)" class="st2 st3">1</text>
-	<text transform="matrix(0.9756 0 0 1 939.5024 861.4487)" class="st2 st3">1</text>
-	<text transform="matrix(0.9756 0 0 1 1152.5024 861.4487)" class="st2 st3">0</text>
-	<text transform="matrix(0.9756 0 0 1 948.5024 1032.4487)" class="st2 st3">1</text>
-	<text transform="matrix(0.9756 0 0 1 1152.5024 1032.4487)" class="st2 st3">1</text>
-	<text transform="matrix(0.9756 0 0 1 1348.8362 527.9489)" class="st2 st3">0</text>
-	<text transform="matrix(0.9756 0 0 1 1348.8362 686.9489)" class="st2 st3">0</text>
-	<text transform="matrix(0.9756 0 0 1 1348.8362 860.9487)" class="st2 st3">0</text>
-	<text transform="matrix(0.9756 0 0 1 1348.8364 1032.9487)" class="st2 st3">1</text>
-	<text transform="matrix(0.9756 0 0 1 2898.1294 360.152)" class="st2 st3">X</text>
-	<g>
-		<g id="XMLID_00000056386959829896907910000013539239265653564288_">
-			<g>
-				<polygon class="st4" points="3027,57 3027,228 2823.86,228 2620.71,228 2417.57,228 2417.57,57 				"/>
-				<rect x="1605" y="57" class="st4" width="812.57" height="171"/>
-			</g>
-			<g>
-				<polyline class="st5" points="1605,228 1605,57 2417.57,57 				"/>
-				<polyline class="st5" points="2417.57,1083 1605,1083 1605,228 2417.57,228 				"/>
-				<polyline class="st5" points="2417.57,228 2417.57,57 3027,57 3027,228 				"/>
-				<polygon class="st5" points="3027,228 3027,399 3027,570 3027,741 3027,912 3027,1083 2823.86,1083 2620.71,1083 2417.57,1083 
-					2417.57,912 2417.57,741 2417.57,570 2417.57,399 2417.57,228 2620.71,228 2823.86,228 				"/>
-				<polyline class="st5" points="3027,912 2823.86,912 2620.71,912 2417.57,912 				"/>
-				<polyline class="st5" points="3027,741 2823.86,741 2620.71,741 2417.57,741 				"/>
-				<polyline class="st5" points="3027,570 2823.86,570 2620.71,570 2417.57,570 				"/>
-				<polyline class="st5" points="3027,399 2823.86,399 2620.71,399 2417.57,399 				"/>
-				<polyline class="st5" points="2823.86,228 2823.86,399 2823.86,570 2823.86,741 2823.86,912 2823.86,1083 				"/>
-				<polyline class="st5" points="2620.71,228 2620.71,399 2620.71,570 2620.71,741 2620.71,912 2620.71,1083 				"/>
-			</g>
-		</g>
-	</g>
-	<text transform="matrix(0.9756 0 0 1 2534.7412 186.4492)" class="st2 st3">Truth Table</text>
-	<text transform="matrix(0.9756 0 0 1 1762.7412 187.4492)" class="st2 st3">Logic Symbol</text>
-	<text transform="matrix(0.9756 0 0 1 2485.9854 359.4487)" class="st2 st3">A</text>
-	<text transform="matrix(0.9756 0 0 1 2697.1787 359.4489)" class="st2 st3">B</text>
-	<text transform="matrix(0.9756 0 0 1 2488.5024 525.4489)" class="st2 st3">0</text>
-	<text transform="matrix(0.9756 0 0 1 2704.5029 526.4489)" class="st2 st3">0</text>
-	<text transform="matrix(0.9756 0 0 1 2488.5029 685.4489)" class="st2 st3">0</text>
-	<text transform="matrix(0.9756 0 0 1 2704.5024 686.4489)" class="st2 st3">1</text>
-	<text transform="matrix(0.9756 0 0 1 2491.5024 861.4487)" class="st2 st3">1</text>
-	<text transform="matrix(0.9756 0 0 1 2704.5024 861.4487)" class="st2 st3">0</text>
-	<text transform="matrix(0.9756 0 0 1 2500.5024 1032.4487)" class="st2 st3">1</text>
-	<text transform="matrix(0.9756 0 0 1 2704.5024 1032.4487)" class="st2 st3">1</text>
-	<text transform="matrix(0.9756 0 0 1 2900.8359 527.9489)" class="st2 st3">0</text>
-	<text transform="matrix(0.9756 0 0 1 2900.8364 1032.9487)" class="st2 st3">1</text>
-	<text transform="matrix(0.9756 0 0 1 4418.1294 360.152)" class="st2 st3">X</text>
-	<g>
-		<g id="XMLID_00000168835160700344473530000000684101458490047917_">
-			<g>
-				<polygon class="st4" points="4547,57 4547,228 4343.86,228 4140.71,228 3937.57,228 3937.57,57 				"/>
-				<rect x="3125" y="57" class="st4" width="812.57" height="171"/>
-			</g>
-			<g>
-				<polyline class="st5" points="3125,228 3125,57 3937.57,57 				"/>
-				<polyline class="st5" points="3937.57,1083 3125,1083 3125,228 3937.57,228 				"/>
-				<polyline class="st5" points="3937.57,228 3937.57,57 4547,57 4547,228 				"/>
-				<polygon class="st5" points="4547,228 4547,399 4547,570 4547,741 4547,912 4547,1083 4343.86,1083 4140.71,1083 3937.57,1083 
-					3937.57,912 3937.57,741 3937.57,570 3937.57,399 3937.57,228 4140.71,228 4343.86,228 				"/>
-				<polyline class="st5" points="4547,912 4343.86,912 4140.71,912 3937.57,912 				"/>
-				<polyline class="st5" points="4547,741 4343.86,741 4140.71,741 3937.57,741 				"/>
-				<polyline class="st5" points="4547,570 4343.86,570 4140.71,570 3937.57,570 				"/>
-				<polyline class="st5" points="4547,399 4343.86,399 4140.71,399 3937.57,399 				"/>
-				<polyline class="st5" points="4343.86,228 4343.86,399 4343.86,570 4343.86,741 4343.86,912 4343.86,1083 				"/>
-				<polyline class="st5" points="4140.71,228 4140.71,399 4140.71,570 4140.71,741 4140.71,912 4140.71,1083 				"/>
+			<g
+   id="g32">
+				<polyline
+   id="polyline12"
+   points="53,228 53,57 865.57,57     "
+   class="st5" />
+				<polyline
+   id="polyline14"
+   points="865.57,1083 53,1083 53,228 865.57,228     "
+   class="st5" />
+				<polyline
+   id="polyline16"
+   points="865.57,228 865.57,57 1475,57 1475,228     "
+   class="st5" />
+				<polygon
+   id="polygon18"
+   points="1475,228 1475,399 1475,570 1475,741 1475,912 1475,1083 1271.86,1083 1068.71,1083 865.57,1083       865.57,912 865.57,741 865.57,570 865.57,399 865.57,228 1068.71,228 1271.86,228     "
+   class="st5" />
+				<polyline
+   id="polyline20"
+   points="1475,912 1271.86,912 1068.71,912 865.57,912     "
+   class="st5" />
+				<polyline
+   id="polyline22"
+   points="1475,741 1271.86,741 1068.71,741 865.57,741     "
+   class="st5" />
+				<polyline
+   id="polyline24"
+   points="1475,570 1271.86,570 1068.71,570 865.57,570     "
+   class="st5" />
+				<polyline
+   id="polyline26"
+   points="1475,399 1271.86,399 1068.71,399 865.57,399     "
+   class="st5" />
+				<polyline
+   id="polyline28"
+   points="1271.86,228 1271.86,399 1271.86,570 1271.86,741 1271.86,912 1271.86,1083     "
+   class="st5" />
+				<polyline
+   id="polyline30"
+   points="1068.71,228 1068.71,399 1068.71,570 1068.71,741 1068.71,912 1068.71,1083     "
+   class="st5" />
 			</g>
 		</g>
 	</g>
-	<text transform="matrix(0.9756 0 0 1 4054.7412 186.4492)" class="st2 st3">Truth Table</text>
-	<text transform="matrix(0.9756 0 0 1 3282.7412 187.4492)" class="st2 st3">Logic Symbol</text>
-	<text transform="matrix(0.9756 0 0 1 4005.9854 359.4487)" class="st2 st3">A</text>
-	<text transform="matrix(0.9756 0 0 1 4217.1787 359.4489)" class="st2 st3">B</text>
-	<text transform="matrix(0.9756 0 0 1 4008.5024 525.4489)" class="st2 st3">0</text>
-	<text transform="matrix(0.9756 0 0 1 4224.5029 526.4489)" class="st2 st3">0</text>
-	<text transform="matrix(0.9756 0 0 1 4008.5029 685.4489)" class="st2 st3">0</text>
-	<text transform="matrix(0.9756 0 0 1 4224.5024 686.4489)" class="st2 st3">1</text>
-	<text transform="matrix(0.9756 0 0 1 4011.5024 861.4487)" class="st2 st3">1</text>
-	<text transform="matrix(0.9756 0 0 1 4224.5024 861.4487)" class="st2 st3">0</text>
-	<text transform="matrix(0.9756 0 0 1 4020.5024 1032.4487)" class="st2 st3">1</text>
-	<text transform="matrix(0.9756 0 0 1 4224.5024 1032.4487)" class="st2 st3">1</text>
-	<text transform="matrix(0.9756 0 0 1 2898.1299 1492.1519)" class="st2 st3">X</text>
-	<g>
-		<g id="XMLID_00000143619014827319897990000016444877217248973485_">
-			<g>
-				<rect x="1605" y="1189" class="st4" width="812.57" height="171"/>
-				<polygon class="st4" points="3027,1189 3027,1360 2823.86,1360 2620.71,1360 2417.57,1360 2417.57,1189 				"/>
+	<text
+   id="text37"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 982.7412 186.4492)">Truth Table</text>
+	<text
+   id="text39"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 210.7412 187.4492)">Logic Symbol</text>
+	<text
+   id="text41"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 933.9856 359.4487)">A</text>
+	<text
+   id="text43"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 1145.179 359.4489)">B</text>
+	<text
+   id="text45"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 936.5024 525.4489)">0</text>
+	<text
+   id="text47"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 1152.5032 526.4489)">0</text>
+	<text
+   id="text49"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 936.5029 685.4489)">0</text>
+	<text
+   id="text51"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 1152.5024 686.4489)">1</text>
+	<text
+   id="text53"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 939.5024 861.4487)">1</text>
+	<text
+   id="text55"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 1152.5024 861.4487)">0</text>
+	<text
+   id="text57"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 948.5024 1032.4487)">1</text>
+	<text
+   id="text59"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 1152.5024 1032.4487)">1</text>
+	<text
+   id="text61"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 1348.8362 527.9489)">0</text>
+	<text
+   id="text63"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 1348.8362 686.9489)">0</text>
+	<text
+   id="text65"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 1348.8362 860.9487)">0</text>
+	<text
+   id="text67"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 1348.8364 1032.9487)">1</text>
+	<text
+   id="text69"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 2898.1294 360.152)">X</text>
+	<g
+   id="g100">
+		<g
+   id="XMLID_00000056386959829896907910000013539239265653564288_">
+			<g
+   id="g75">
+				<polygon
+   id="polygon71"
+   points="3027,57 3027,228 2823.86,228 2620.71,228 2417.57,228 2417.57,57     "
+   class="st4" />
+				<rect
+   id="rect73"
+   height="171"
+   width="812.57"
+   class="st4"
+   y="57"
+   x="1605" />
 			</g>
-			<g>
-				<polyline class="st5" points="1605,1360 1605,1189 2417.57,1189 				"/>
-				<polyline class="st5" points="2417.57,2215 1605,2215 1605,1360 2417.57,1360 				"/>
-				<polyline class="st5" points="2417.57,1360 2417.57,1189 3027,1189 3027,1360 				"/>
-				<polygon class="st5" points="3027,1360 3027,1531 3027,1702 3027,1873 3027,2044 3027,2215 2823.86,2215 2620.71,2215 
-					2417.57,2215 2417.57,2044 2417.57,1873 2417.57,1702 2417.57,1531 2417.57,1360 2620.71,1360 2823.86,1360 				"/>
-				<polyline class="st5" points="3027,2044 2823.86,2044 2620.71,2044 2417.57,2044 				"/>
-				<polyline class="st5" points="3027,1873 2823.86,1873 2620.71,1873 2417.57,1873 				"/>
-				<polyline class="st5" points="3027,1702 2823.86,1702 2620.71,1702 2417.57,1702 				"/>
-				<polyline class="st5" points="3027,1531 2823.86,1531 2620.71,1531 2417.57,1531 				"/>
-				<polyline class="st5" points="2823.86,1360 2823.86,1531 2823.86,1702 2823.86,1873 2823.86,2044 2823.86,2215 				"/>
-				<polyline class="st5" points="2620.71,1360 2620.71,1531 2620.71,1702 2620.71,1873 2620.71,2044 2620.71,2215 				"/>
+			<g
+   id="g97">
+				<polyline
+   id="polyline77"
+   points="1605,228 1605,57 2417.57,57     "
+   class="st5" />
+				<polyline
+   id="polyline79"
+   points="2417.57,1083 1605,1083 1605,228 2417.57,228     "
+   class="st5" />
+				<polyline
+   id="polyline81"
+   points="2417.57,228 2417.57,57 3027,57 3027,228     "
+   class="st5" />
+				<polygon
+   id="polygon83"
+   points="3027,228 3027,399 3027,570 3027,741 3027,912 3027,1083 2823.86,1083 2620.71,1083 2417.57,1083       2417.57,912 2417.57,741 2417.57,570 2417.57,399 2417.57,228 2620.71,228 2823.86,228     "
+   class="st5" />
+				<polyline
+   id="polyline85"
+   points="3027,912 2823.86,912 2620.71,912 2417.57,912     "
+   class="st5" />
+				<polyline
+   id="polyline87"
+   points="3027,741 2823.86,741 2620.71,741 2417.57,741     "
+   class="st5" />
+				<polyline
+   id="polyline89"
+   points="3027,570 2823.86,570 2620.71,570 2417.57,570     "
+   class="st5" />
+				<polyline
+   id="polyline91"
+   points="3027,399 2823.86,399 2620.71,399 2417.57,399     "
+   class="st5" />
+				<polyline
+   id="polyline93"
+   points="2823.86,228 2823.86,399 2823.86,570 2823.86,741 2823.86,912 2823.86,1083     "
+   class="st5" />
+				<polyline
+   id="polyline95"
+   points="2620.71,228 2620.71,399 2620.71,570 2620.71,741 2620.71,912 2620.71,1083     "
+   class="st5" />
 			</g>
 		</g>
 	</g>
-	<text transform="matrix(0.9756 0 0 1 2534.7412 1318.4492)" class="st2 st3">Truth Table</text>
-	<text transform="matrix(0.9756 0 0 1 1762.7412 1319.4492)" class="st2 st3">Logic Symbol</text>
-	<text transform="matrix(0.9756 0 0 1 2485.9854 1491.4487)" class="st2 st3">A</text>
-	<text transform="matrix(0.9756 0 0 1 2697.1787 1491.4487)" class="st2 st3">B</text>
-	<text transform="matrix(0.9756 0 0 1 2488.5024 1657.4487)" class="st2 st3">0</text>
-	<text transform="matrix(0.9756 0 0 1 2704.5029 1658.4487)" class="st2 st3">0</text>
-	<text transform="matrix(0.9756 0 0 1 2488.5029 1817.4487)" class="st2 st3">0</text>
-	<text transform="matrix(0.9756 0 0 1 2704.5024 1818.4487)" class="st2 st3">1</text>
-	<text transform="matrix(0.9756 0 0 1 2491.5024 1993.4487)" class="st2 st3">1</text>
-	<text transform="matrix(0.9756 0 0 1 2704.5024 1993.4487)" class="st2 st3">0</text>
-	<text transform="matrix(0.9756 0 0 1 2500.5024 2164.4487)" class="st2 st3">1</text>
-	<text transform="matrix(0.9756 0 0 1 2704.5024 2164.4487)" class="st2 st3">1</text>
-	<text transform="matrix(0.9756 0 0 1 2900.8359 1659.9487)" class="st2 st3">0</text>
-	<text transform="matrix(0.9756 0 0 1 2900.8359 1818.9487)" class="st2 st3">0</text>
-	<text transform="matrix(0.9756 0 0 1 2900.8359 1992.9487)" class="st2 st3">0</text>
-	<text transform="matrix(0.9756 0 0 1 2900.8364 2164.9487)" class="st2 st3">1</text>
-	<text transform="matrix(0.9756 0 0 1 1346.1296 1492.1519)" class="st2 st3">X</text>
-	<g>
-		<g id="XMLID_00000114038415853866572580000002868785088755361928_">
-			<g>
-				<polygon class="st4" points="1475,1189 1475,1360 1271.86,1360 1068.71,1360 865.57,1360 865.57,1189 				"/>
-				<rect x="53" y="1189" class="st4" width="812.57" height="171"/>
+	<text
+   id="text102"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 2534.7412 186.4492)">Truth Table</text>
+	<text
+   id="text104"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 1762.7412 187.4492)">Logic Symbol</text>
+	<text
+   id="text106"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 2485.9854 359.4487)">A</text>
+	<text
+   id="text108"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 2697.1787 359.4489)">B</text>
+	<text
+   id="text110"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 2488.5024 525.4489)">0</text>
+	<text
+   id="text112"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 2704.5029 526.4489)">0</text>
+	<text
+   id="text114"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 2488.5029 685.4489)">0</text>
+	<text
+   id="text116"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 2704.5024 686.4489)">1</text>
+	<text
+   id="text118"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 2491.5024 861.4487)">1</text>
+	<text
+   id="text120"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 2704.5024 861.4487)">0</text>
+	<text
+   id="text122"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 2500.5024 1032.4487)">1</text>
+	<text
+   id="text124"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 2704.5024 1032.4487)">1</text>
+	<text
+   id="text126"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 2900.8359 527.9489)">0</text>
+	<text
+   id="text128"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 2900.8364 1032.9487)">1</text>
+	<text
+   id="text130"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 4418.1294 360.152)">X</text>
+	<g
+   id="g161">
+		<g
+   id="XMLID_00000168835160700344473530000000684101458490047917_">
+			<g
+   id="g136">
+				<polygon
+   id="polygon132"
+   points="4547,57 4547,228 4343.86,228 4140.71,228 3937.57,228 3937.57,57     "
+   class="st4" />
+				<rect
+   id="rect134"
+   height="171"
+   width="812.57"
+   class="st4"
+   y="57"
+   x="3125" />
 			</g>
-			<g>
-				<polyline class="st5" points="53,1360 53,1189 865.57,1189 				"/>
-				<polyline class="st5" points="865.57,2215 53,2215 53,1360 865.57,1360 				"/>
-				<polyline class="st5" points="865.57,1360 865.57,1189 1475,1189 1475,1360 				"/>
-				<polygon class="st5" points="1475,1360 1475,1531 1475,1702 1475,1873 1475,2044 1475,2215 1271.86,2215 1068.71,2215 
-					865.57,2215 865.57,2044 865.57,1873 865.57,1702 865.57,1531 865.57,1360 1068.71,1360 1271.86,1360 				"/>
-				<polyline class="st5" points="1475,2044 1271.86,2044 1068.71,2044 865.57,2044 				"/>
-				<polyline class="st5" points="1475,1873 1271.86,1873 1068.71,1873 865.57,1873 				"/>
-				<polyline class="st5" points="1475,1702 1271.86,1702 1068.71,1702 865.57,1702 				"/>
-				<polyline class="st5" points="1475,1531 1271.86,1531 1068.71,1531 865.57,1531 				"/>
-				<polyline class="st5" points="1271.86,1360 1271.86,1531 1271.86,1702 1271.86,1873 1271.86,2044 1271.86,2215 				"/>
-				<polyline class="st5" points="1068.71,1360 1068.71,1531 1068.71,1702 1068.71,1873 1068.71,2044 1068.71,2215 				"/>
+			<g
+   id="g158">
+				<polyline
+   id="polyline138"
+   points="3125,228 3125,57 3937.57,57     "
+   class="st5" />
+				<polyline
+   id="polyline140"
+   points="3937.57,1083 3125,1083 3125,228 3937.57,228     "
+   class="st5" />
+				<polyline
+   id="polyline142"
+   points="3937.57,228 3937.57,57 4547,57 4547,228     "
+   class="st5" />
+				<polygon
+   id="polygon144"
+   points="4547,228 4547,399 4547,570 4547,741 4547,912 4547,1083 4343.86,1083 4140.71,1083 3937.57,1083       3937.57,912 3937.57,741 3937.57,570 3937.57,399 3937.57,228 4140.71,228 4343.86,228     "
+   class="st5" />
+				<polyline
+   id="polyline146"
+   points="4547,912 4343.86,912 4140.71,912 3937.57,912     "
+   class="st5" />
+				<polyline
+   id="polyline148"
+   points="4547,741 4343.86,741 4140.71,741 3937.57,741     "
+   class="st5" />
+				<polyline
+   id="polyline150"
+   points="4547,570 4343.86,570 4140.71,570 3937.57,570     "
+   class="st5" />
+				<polyline
+   id="polyline152"
+   points="4547,399 4343.86,399 4140.71,399 3937.57,399     "
+   class="st5" />
+				<polyline
+   id="polyline154"
+   points="4343.86,228 4343.86,399 4343.86,570 4343.86,741 4343.86,912 4343.86,1083     "
+   class="st5" />
+				<polyline
+   id="polyline156"
+   points="4140.71,228 4140.71,399 4140.71,570 4140.71,741 4140.71,912 4140.71,1083     "
+   class="st5" />
 			</g>
 		</g>
 	</g>
-	<text transform="matrix(0.9756 0 0 1 982.7412 1318.4492)" class="st2 st3">Truth Table</text>
-	<text transform="matrix(0.9756 0 0 1 210.7412 1319.4492)" class="st2 st3">Logic Symbol</text>
-	<text transform="matrix(0.9756 0 0 1 933.9856 1491.4487)" class="st2 st3">A</text>
-	<text transform="matrix(0.9756 0 0 1 1145.179 1491.4487)" class="st2 st3">B</text>
-	<text transform="matrix(0.9756 0 0 1 936.5024 1657.4487)" class="st2 st3">0</text>
-	<text transform="matrix(0.9756 0 0 1 1152.5032 1658.4487)" class="st2 st3">0</text>
-	<text transform="matrix(0.9756 0 0 1 936.5029 1817.4487)" class="st2 st3">0</text>
-	<text transform="matrix(0.9756 0 0 1 1152.5024 1818.4487)" class="st2 st3">1</text>
-	<text transform="matrix(0.9756 0 0 1 939.5024 1993.4487)" class="st2 st3">1</text>
-	<text transform="matrix(0.9756 0 0 1 1152.5024 1993.4487)" class="st2 st3">0</text>
-	<text transform="matrix(0.9756 0 0 1 948.5024 2164.4487)" class="st2 st3">1</text>
-	<text transform="matrix(0.9756 0 0 1 1152.5024 2164.4487)" class="st2 st3">1</text>
-	<text transform="matrix(0.9756 0 0 1 1348.8362 1818.9487)" class="st2 st3">0</text>
-	<text transform="matrix(0.9756 0 0 1 1348.8362 1992.9487)" class="st2 st3">0</text>
-	<text transform="matrix(0.9756 0 0 1 1348.8364 2164.9487)" class="st2 st3">1</text>
-	<text transform="matrix(0.9756 0 0 1 120.6523 593.4487)" class="st2 st3">A</text>
-	<text transform="matrix(0.9756 0 0 1 120.8457 747.4487)" class="st2 st3">B</text>
-	<text transform="matrix(0.9756 0 0 1 2904.0586 683.6711)" class="st2 st3">1</text>
-	<text transform="matrix(0.9756 0 0 1 2900.0586 862.6711)" class="st2 st3">1</text>
-	<path id="rect9115" class="st6" d="M1824.41,508.09v0.65c23.14,40.15,36.51,86.52,36.51,136.16c0,49.63-13.37,96-36.51,136.13v0.63
-		h141.75c101.14,0,189.44-55.09,236.8-136.76c-47.36-81.68-135.66-136.82-236.8-136.82
-		C1966.16,508.09,1824.41,508.09,1824.41,508.09z M2203.28,644.9H2298 M1756,576.49h94.72 M1756,713.31h94.72"/>
-	<text transform="matrix(0.9756 0 0 1 1669.9854 593.1155)" class="st2 st3">A</text>
-	<text transform="matrix(0.9756 0 0 1 1672.1787 748.1155)" class="st2 st3">B</text>
-	<text transform="matrix(0.9756 0 0 1 2250.856 623.1155)" class="st2 st3">X</text>
-	<text transform="matrix(0.9756 0 0 1 715.5227 626.4495)" class="st2 st3">X</text>
-	<text transform="matrix(0.9756 0 0 1 4417.8364 862.4487)" class="st2 st3">1</text>
-	<text transform="matrix(0.9756 0 0 1 4417.8364 686.4487)" class="st2 st3">1</text>
-	<text transform="matrix(0.9756 0 0 1 4417.8364 525.4487)" class="st2 st3">1</text>
-	<text transform="matrix(0.9756 0 0 1 4417.8364 1032.4487)" class="st2 st3">0</text>
-	<path id="path16055" class="st7" d="M3725.37,645.06c0,11.89-9.64,21.53-21.53,21.53s-21.53-9.64-21.53-21.53
-		s9.64-21.53,21.53-21.53S3725.37,633.17,3725.37,645.06z"/>
-	<path id="path2183" class="st8" d="M3728.12,645.06H3825"/>
-	<path id="path10208" class="st6" d="M3538.73,785H3334.2V505.13l204.53-0.02c77.29,0,139.94,62.69,139.94,139.94
-		S3616.03,785,3538.73,785z M3237.32,575.08h96.88 M3237.32,715.03h96.88"/>
-	<text transform="matrix(0.9756 0 0 1 3164.6523 593.7828)" class="st2 st3">A</text>
-	<text transform="matrix(0.9756 0 0 1 3166.8457 740.7827)" class="st2 st3">B</text>
-	<text transform="matrix(0.9756 0 0 1 3786.5229 622.7828)" class="st2 st3">X</text>
-	<path id="path10206" class="st6" d="M268.84,1636.67v0.73c23.29,44.14,36.74,95.11,36.74,149.67c0,54.57-13.45,105.55-36.74,149.66
-		v0.69h142.65c101.77,0,190.62-60.56,238.28-150.35c-47.66-89.78-136.51-150.4-238.28-150.4H268.84z M692.44,1787.08
-		c0,12.77-9.53,23.14-21.18,23.14s-21.18-10.37-21.18-23.14s9.53-23.14,21.18-23.14S692.44,1774.31,692.44,1787.08z M692.44,1787.07
-		h95.31 M200,1711.87h95.31 M200,1862.27h95.31"/>
-	<text transform="matrix(0.9756 0 0 1 120.3188 1730.4495)" class="st2 st3">A</text>
-	<text transform="matrix(0.9756 0 0 1 120.5122 1890.4495)" class="st2 st3">B</text>
-	<text transform="matrix(0.9756 0 0 1 740.3003 1763.7827)" class="st2 st3">X</text>
-	<text transform="matrix(0.9756 0 0 1 1345.9478 1659.3376)" class="st2 st3">1</text>
-	<path id="path10179" class="st6" d="M1882.08,1652.78v0.73c22.82,39.53,35.99,85.29,35.99,134.16c0,48.98-13.18,94.73-35.99,134.27
-		v0.62h139.76c99.71,0,186.77-54.27,233.46-134.89c-46.69-80.52-133.75-134.89-233.46-134.89
-		C2021.83,1652.78,1882.08,1652.78,1882.08,1652.78z M1830.19,1653.51c22.82,39.53,35.99,85.29,35.99,134.16
-		c0,48.98-13.18,94.73-35.99,134.27 M2255.61,1787.67H2349 M1762.75,1720.22h93.39 M1762.75,1855.11h93.39"/>
-	<text transform="matrix(0.9756 0 0 1 1671.9854 1730.4495)" class="st2 st3">A</text>
-	<text transform="matrix(0.9756 0 0 1 1674.7349 1873.4495)" class="st2 st3">B</text>
-	<g>
-		<g>
-			<g id="XMLID_00000024718561563878950060000005318543896164391814_">
-				<g>
-					<polygon class="st4" points="4396.66,1194 4396.66,1450.75 4116.23,1450.75 3835.79,1450.75 3835.79,1194 					"/>
-					<rect x="3274.92" y="1194" class="st4" width="560.87" height="256.75"/>
+	<text
+   id="text163"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 4054.7412 186.4492)">Truth Table</text>
+	<text
+   id="text165"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 3282.7412 187.4492)">Logic Symbol</text>
+	<text
+   id="text167"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 4005.9854 359.4487)">A</text>
+	<text
+   id="text169"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 4217.1787 359.4489)">B</text>
+	<text
+   id="text171"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 4008.5024 525.4489)">0</text>
+	<text
+   id="text173"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 4224.5029 526.4489)">0</text>
+	<text
+   id="text175"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 4008.5029 685.4489)">0</text>
+	<text
+   id="text177"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 4224.5024 686.4489)">1</text>
+	<text
+   id="text179"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 4011.5024 861.4487)">1</text>
+	<text
+   id="text181"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 4224.5024 861.4487)">0</text>
+	<text
+   id="text183"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 4020.5024 1032.4487)">1</text>
+	<text
+   id="text185"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 4224.5024 1032.4487)">1</text>
+	<text
+   id="text187"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 2898.1299 1492.1519)">X</text>
+	<g
+   id="g218">
+		<g
+   id="XMLID_00000143619014827319897990000016444877217248973485_">
+			<g
+   id="g193">
+				<rect
+   id="rect189"
+   height="171"
+   width="812.57"
+   class="st4"
+   y="1189"
+   x="1605" />
+				<polygon
+   id="polygon191"
+   points="3027,1189 3027,1360 2823.86,1360 2620.71,1360 2417.57,1360 2417.57,1189     "
+   class="st4" />
+			</g>
+			<g
+   id="g215">
+				<polyline
+   id="polyline195"
+   points="1605,1360 1605,1189 2417.57,1189     "
+   class="st5" />
+				<polyline
+   id="polyline197"
+   points="2417.57,2215 1605,2215 1605,1360 2417.57,1360     "
+   class="st5" />
+				<polyline
+   id="polyline199"
+   points="2417.57,1360 2417.57,1189 3027,1189 3027,1360     "
+   class="st5" />
+				<polygon
+   id="polygon201"
+   points="3027,1360 3027,1531 3027,1702 3027,1873 3027,2044 3027,2215 2823.86,2215 2620.71,2215       2417.57,2215 2417.57,2044 2417.57,1873 2417.57,1702 2417.57,1531 2417.57,1360 2620.71,1360 2823.86,1360     "
+   class="st5" />
+				<polyline
+   id="polyline203"
+   points="3027,2044 2823.86,2044 2620.71,2044 2417.57,2044     "
+   class="st5" />
+				<polyline
+   id="polyline205"
+   points="3027,1873 2823.86,1873 2620.71,1873 2417.57,1873     "
+   class="st5" />
+				<polyline
+   id="polyline207"
+   points="3027,1702 2823.86,1702 2620.71,1702 2417.57,1702     "
+   class="st5" />
+				<polyline
+   id="polyline209"
+   points="3027,1531 2823.86,1531 2620.71,1531 2417.57,1531     "
+   class="st5" />
+				<polyline
+   id="polyline211"
+   points="2823.86,1360 2823.86,1531 2823.86,1702 2823.86,1873 2823.86,2044 2823.86,2215     "
+   class="st5" />
+				<polyline
+   id="polyline213"
+   points="2620.71,1360 2620.71,1531 2620.71,1702 2620.71,1873 2620.71,2044 2620.71,2215     "
+   class="st5" />
+			</g>
+		</g>
+	</g>
+	<text
+   id="text220"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 2534.7412 1318.4492)">Truth Table</text>
+	<text
+   id="text222"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 1762.7412 1319.4492)">Logic Symbol</text>
+	<text
+   id="text224"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 2485.9854 1491.4487)">A</text>
+	<text
+   id="text226"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 2697.1787 1491.4487)">B</text>
+	<text
+   id="text228"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 2488.5024 1657.4487)">0</text>
+	<text
+   id="text230"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 2704.5029 1658.4487)">0</text>
+	<text
+   id="text232"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 2488.5029 1817.4487)">0</text>
+	<text
+   id="text234"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 2704.5024 1818.4487)">1</text>
+	<text
+   id="text236"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 2491.5024 1993.4487)">1</text>
+	<text
+   id="text238"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 2704.5024 1993.4487)">0</text>
+	<text
+   id="text240"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 2500.5024 2164.4487)">1</text>
+	<text
+   id="text242"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 2704.5024 2164.4487)">1</text>
+	<text
+   id="text244"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 2900.8359 1659.9487)">0</text>
+	
+	<text
+   style="stroke-width:0.987725"
+   y="2141.2092"
+   x="2932.4612"
+   id="text248"
+   class="st2 st3"
+   transform="scale(0.98772466,1.0124279)">0</text>
+	
+	<text
+   id="text252"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 1346.1296 1492.1519)">X</text>
+	<g
+   id="g283">
+		<g
+   id="XMLID_00000114038415853866572580000002868785088755361928_">
+			<g
+   id="g258">
+				<polygon
+   id="polygon254"
+   points="1475,1189 1475,1360 1271.86,1360 1068.71,1360 865.57,1360 865.57,1189     "
+   class="st4" />
+				<rect
+   id="rect256"
+   height="171"
+   width="812.57"
+   class="st4"
+   y="1189"
+   x="53" />
+			</g>
+			<g
+   id="g280">
+				<polyline
+   id="polyline260"
+   points="53,1360 53,1189 865.57,1189     "
+   class="st5" />
+				<polyline
+   id="polyline262"
+   points="865.57,2215 53,2215 53,1360 865.57,1360     "
+   class="st5" />
+				<polyline
+   id="polyline264"
+   points="865.57,1360 865.57,1189 1475,1189 1475,1360     "
+   class="st5" />
+				<polygon
+   id="polygon266"
+   points="1475,1360 1475,1531 1475,1702 1475,1873 1475,2044 1475,2215 1271.86,2215 1068.71,2215       865.57,2215 865.57,2044 865.57,1873 865.57,1702 865.57,1531 865.57,1360 1068.71,1360 1271.86,1360     "
+   class="st5" />
+				<polyline
+   id="polyline268"
+   points="1475,2044 1271.86,2044 1068.71,2044 865.57,2044     "
+   class="st5" />
+				<polyline
+   id="polyline270"
+   points="1475,1873 1271.86,1873 1068.71,1873 865.57,1873     "
+   class="st5" />
+				<polyline
+   id="polyline272"
+   points="1475,1702 1271.86,1702 1068.71,1702 865.57,1702     "
+   class="st5" />
+				<polyline
+   id="polyline274"
+   points="1475,1531 1271.86,1531 1068.71,1531 865.57,1531     "
+   class="st5" />
+				<polyline
+   id="polyline276"
+   points="1271.86,1360 1271.86,1531 1271.86,1702 1271.86,1873 1271.86,2044 1271.86,2215     "
+   class="st5" />
+				<polyline
+   id="polyline278"
+   points="1068.71,1360 1068.71,1531 1068.71,1702 1068.71,1873 1068.71,2044 1068.71,2215     "
+   class="st5" />
+			</g>
+		</g>
+	</g>
+	<text
+   id="text285"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 982.7412 1318.4492)">Truth Table</text>
+	<text
+   id="text287"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 210.7412 1319.4492)">Logic Symbol</text>
+	<text
+   id="text289"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 933.9856 1491.4487)">A</text>
+	<text
+   id="text291"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 1145.179 1491.4487)">B</text>
+	<text
+   id="text293"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 936.5024 1657.4487)">0</text>
+	<text
+   id="text295"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 1152.5032 1658.4487)">0</text>
+	<text
+   id="text297"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 936.5029 1817.4487)">0</text>
+	<text
+   id="text299"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 1152.5024 1818.4487)">1</text>
+	<text
+   id="text301"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 939.5024 1993.4487)">1</text>
+	<text
+   id="text303"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 1152.5024 1993.4487)">0</text>
+	<text
+   id="text305"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 948.5024 2164.4487)">1</text>
+	<text
+   id="text307"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 1152.5024 2164.4487)">1</text>
+	<text
+   id="text309"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 1348.8362 1818.9487)">0</text>
+	<text
+   id="text311"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 1348.8362 1992.9487)">0</text>
+	
+	<text
+   id="text315"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 120.6523 593.4487)">A</text>
+	<text
+   id="text317"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 120.8457 747.4487)">B</text>
+	<text
+   id="text319"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 2904.0586 683.6711)">1</text>
+	<text
+   id="text321"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 2900.0586 862.6711)">1</text>
+	<path
+   d="M1824.41,508.09v0.65c23.14,40.15,36.51,86.52,36.51,136.16c0,49.63-13.37,96-36.51,136.13v0.63   h141.75c101.14,0,189.44-55.09,236.8-136.76c-47.36-81.68-135.66-136.82-236.8-136.82   C1966.16,508.09,1824.41,508.09,1824.41,508.09z M2203.28,644.9H2298 M1756,576.49h94.72 M1756,713.31h94.72"
+   class="st6"
+   id="rect9115" />
+	<text
+   id="text324"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 1669.9854 593.1155)">A</text>
+	<text
+   id="text326"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 1672.1787 748.1155)">B</text>
+	<text
+   id="text328"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 2250.856 623.1155)">X</text>
+	<text
+   id="text330"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 715.5227 626.4495)">X</text>
+	<text
+   id="text332"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 4417.8364 862.4487)">1</text>
+	<text
+   id="text334"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 4417.8364 686.4487)">1</text>
+	<text
+   id="text336"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 4417.8364 525.4487)">1</text>
+	<text
+   id="text338"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 4417.8364 1032.4487)">0</text>
+	<path
+   d="M3725.37,645.06c0,11.89-9.64,21.53-21.53,21.53s-21.53-9.64-21.53-21.53   s9.64-21.53,21.53-21.53S3725.37,633.17,3725.37,645.06z"
+   class="st7"
+   id="path16055" />
+	<path
+   d="M3728.12,645.06H3825"
+   class="st8"
+   id="path2183" />
+	<path
+   d="M3538.73,785H3334.2V505.13l204.53-0.02c77.29,0,139.94,62.69,139.94,139.94   S3616.03,785,3538.73,785z M3237.32,575.08h96.88 M3237.32,715.03h96.88"
+   class="st6"
+   id="path10208" />
+	<text
+   id="text343"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 3164.6523 593.7828)">A</text>
+	<text
+   id="text345"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 3166.8457 740.7827)">B</text>
+	<text
+   id="text347"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 3786.5229 622.7828)">X</text>
+	<path
+   d="M268.84,1636.67v0.73c23.29,44.14,36.74,95.11,36.74,149.67c0,54.57-13.45,105.55-36.74,149.66   v0.69h142.65c101.77,0,190.62-60.56,238.28-150.35c-47.66-89.78-136.51-150.4-238.28-150.4H268.84z M692.44,1787.08   c0,12.77-9.53,23.14-21.18,23.14s-21.18-10.37-21.18-23.14s9.53-23.14,21.18-23.14S692.44,1774.31,692.44,1787.08z M692.44,1787.07   h95.31 M200,1711.87h95.31 M200,1862.27h95.31"
+   class="st6"
+   id="path10206" />
+	<text
+   id="text350"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 120.3188 1730.4495)">A</text>
+	<text
+   id="text352"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 120.5122 1890.4495)">B</text>
+	<text
+   id="text354"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 740.3003 1763.7827)">X</text>
+	<text
+   id="text356"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 1345.9478 1659.3376)">1</text>
+	<path
+   d="M1882.08,1652.78v0.73c22.82,39.53,35.99,85.29,35.99,134.16c0,48.98-13.18,94.73-35.99,134.27   v0.62h139.76c99.71,0,186.77-54.27,233.46-134.89c-46.69-80.52-133.75-134.89-233.46-134.89   C2021.83,1652.78,1882.08,1652.78,1882.08,1652.78z M1830.19,1653.51c22.82,39.53,35.99,85.29,35.99,134.16   c0,48.98-13.18,94.73-35.99,134.27 M2255.61,1787.67H2349 M1762.75,1720.22h93.39 M1762.75,1855.11h93.39"
+   class="st6"
+   id="path10179" />
+	<text
+   id="text359"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 1671.9854 1730.4495)">A</text>
+	<text
+   id="text361"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 1674.7349 1873.4495)">B</text>
+	<g
+   id="g389">
+		<g
+   id="g386">
+			<g
+   id="XMLID_00000024718561563878950060000005318543896164391814_">
+				<g
+   id="g367">
+					<polygon
+   id="polygon363"
+   points="4396.66,1194 4396.66,1450.75 4116.23,1450.75 3835.79,1450.75 3835.79,1194      "
+   class="st4" />
+					<rect
+   id="rect365"
+   height="256.75"
+   width="560.87"
+   class="st4"
+   y="1194"
+   x="3274.92" />
 				</g>
-				<g>
-					<polyline class="st5" points="3274.92,1450.75 3274.92,1194 3835.79,1194 					"/>
-					<polyline class="st5" points="3835.79,2221 3274.92,2221 3274.92,1450.75 3835.79,1450.75 					"/>
-					<polyline class="st5" points="3835.79,1450.75 3835.79,1194 4396.66,1194 4396.66,1450.75 					"/>
-					<polygon class="st5" points="4396.66,1450.75 4396.66,1707.5 4396.66,1964.25 4396.66,2221 4116.23,2221 3835.79,2221 
-						3835.79,1964.25 3835.79,1707.5 3835.79,1450.75 4116.23,1450.75 					"/>
-					<polyline class="st5" points="4396.66,1964.25 4116.23,1964.25 3835.79,1964.25 					"/>
-					<polyline class="st5" points="4396.66,1707.5 4116.23,1707.5 3835.79,1707.5 					"/>
-					<polyline class="st5" points="4116.23,2221 4116.23,1964.25 4116.23,1707.5 4116.23,1450.75 					"/>
+				<g
+   id="g383">
+					<polyline
+   id="polyline369"
+   points="3274.92,1450.75 3274.92,1194 3835.79,1194      "
+   class="st5" />
+					<polyline
+   id="polyline371"
+   points="3835.79,2221 3274.92,2221 3274.92,1450.75 3835.79,1450.75      "
+   class="st5" />
+					<polyline
+   id="polyline373"
+   points="3835.79,1450.75 3835.79,1194 4396.66,1194 4396.66,1450.75      "
+   class="st5" />
+					<polygon
+   id="polygon375"
+   points="4396.66,1450.75 4396.66,1707.5 4396.66,1964.25 4396.66,2221 4116.23,2221 3835.79,2221        3835.79,1964.25 3835.79,1707.5 3835.79,1450.75 4116.23,1450.75      "
+   class="st5" />
+					<polyline
+   id="polyline377"
+   points="4396.66,1964.25 4116.23,1964.25 3835.79,1964.25      "
+   class="st5" />
+					<polyline
+   id="polyline379"
+   points="4396.66,1707.5 4116.23,1707.5 3835.79,1707.5      "
+   class="st5" />
+					<polyline
+   id="polyline381"
+   points="4116.23,2221 4116.23,1964.25 4116.23,1707.5 4116.23,1450.75      "
+   class="st5" />
 				</g>
 			</g>
 		</g>
-		<path id="path12162" class="st6" d="M3672.29,1805.71c0,12.13-9.79,21.85-21.85,21.85c-12.06,0-21.85-9.72-21.85-21.85
-			c0-12.02,9.79-21.85,21.85-21.85C3662.5,1783.86,3672.29,1793.69,3672.29,1805.71z M3415.57,1925.87v-240.33l207.41,120.17
-			L3415.57,1925.87z M3672.29,1805.71h98.32 M3317.25,1805.71h98.32"/>
+		<path
+   d="M3672.29,1805.71c0,12.13-9.79,21.85-21.85,21.85c-12.06,0-21.85-9.72-21.85-21.85    c0-12.02,9.79-21.85,21.85-21.85C3662.5,1783.86,3672.29,1793.69,3672.29,1805.71z M3415.57,1925.87v-240.33l207.41,120.17    L3415.57,1925.87z M3672.29,1805.71h98.32 M3317.25,1805.71h98.32"
+   class="st6"
+   id="path12162" />
 	</g>
-	<text transform="matrix(0.9756 0 0 1 3299.2007 1360.116)" class="st2 st3">Logic Symbol</text>
-	<text transform="matrix(0.9756 0 0 1 3909.0747 1360.4492)" class="st2 st3">Truth Table</text>
-	<text transform="matrix(0.9756 0 0 1 3937.3188 1636.4495)" class="st2 st3">A</text>
-	<text transform="matrix(0.9756 0 0 1 4234.189 1636.4487)" class="st2 st3">X</text>
-	<text transform="matrix(0.9756 0 0 1 3939.8364 1874.4487)" class="st2 st3">0</text>
-	<text transform="matrix(0.9756 0 0 1 4233.8364 2128.4487)" class="st2 st3">0</text>
-	<text transform="matrix(0.9756 0 0 1 4236.8364 1875.4487)" class="st2 st3">1</text>
-	<text transform="matrix(0.9756 0 0 1 3939.8364 2128.782)" class="st2 st3">1</text>
-	<text transform="matrix(0.9756 0 0 1 3306.3188 1787.7827)" class="st2 st3">A</text>
-	<text transform="matrix(0.9756 0 0 1 3721.189 1783.782)" class="st2 st3">X</text>
-	<text transform="matrix(0.9756 0 0 1 2302.189 1763.9487)" class="st2 st3">X</text>
-</g>
-<g id="AND_Gate">
-	<path id="path6087" class="st6" d="M515.25,791.77h-214.6V498.13l214.6-0.02c81.05,0,146.83,65.78,146.83,146.83
-		S596.3,791.77,515.25,791.77z M662.08,644.94h102.28 M199,571.53h101.65 M199,718.36h101.65"/>
+	<text
+   id="text391"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 3299.2007 1360.116)">Logic Symbol</text>
+	<text
+   id="text393"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 3909.0747 1360.4492)">Truth Table</text>
+	<text
+   id="text395"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 3937.3188 1636.4495)">A</text>
+	<text
+   id="text397"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 4234.189 1636.4487)">X</text>
+	<text
+   id="text399"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 3939.8364 1874.4487)">0</text>
+	<text
+   id="text401"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 4233.8364 2128.4487)">0</text>
+	<text
+   id="text403"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 4236.8364 1875.4487)">1</text>
+	<text
+   id="text405"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 3939.8364 2128.782)">1</text>
+	<text
+   id="text407"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 3306.3188 1787.7827)">A</text>
+	<text
+   id="text409"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 3721.189 1783.782)">X</text>
+	<text
+   id="text411"
+   class="st2 st3"
+   transform="matrix(0.9756 0 0 1 2302.189 1763.9487)">X</text>
+<text
+   y="1976.8464"
+   x="2930.3542"
+   style="font-size:92.3753px;font-family:MyriadPro-Regular;stroke-width:0.987725"
+   transform="scale(0.98772466,1.0124279)"
+   class="st2 st3"
+   id="text250">1</text><text
+   y="1801.9626"
+   x="2930.3542"
+   style="font-size:92.3753px;font-family:MyriadPro-Regular;stroke-width:0.987725"
+   transform="scale(0.98772466,1.0124279)"
+   class="st2 st3"
+   id="text250-4">1</text><text
+   y="2140.7996"
+   x="1360.3915"
+   style="font-size:92.3753px;font-family:MyriadPro-Regular;stroke-width:0.987725"
+   transform="scale(0.98772466,1.0124279)"
+   class="st2 st3"
+   id="text311-7">0</text></g>
+<g
+   id="AND_Gate">
+	<path
+   d="M515.25,791.77h-214.6V498.13l214.6-0.02c81.05,0,146.83,65.78,146.83,146.83   S596.3,791.77,515.25,791.77z M662.08,644.94h102.28 M199,571.53h101.65 M199,718.36h101.65"
+   class="st6"
+   id="path6087" />
 </g>
 </svg>
