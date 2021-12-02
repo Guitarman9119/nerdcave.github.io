@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 697 343" style="enable-background:new 0 0 697 343;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#6AF4FF;}
+	.st1{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#FFFFFF;stroke-width:0.72;stroke-linecap:round;stroke-miterlimit:2.88;}
+	.st3{fill:none;stroke:#FFFFFF;stroke-width:0.72;stroke-miterlimit:2.88;}
+	.st4{fill:none;stroke:#000000;stroke-width:0.72;stroke-miterlimit:2.88;}
+	.st5{fill:#DCAA14;}
+	.st6{fill:#FFFFFF;filter:url(#Adobe_OpacityMaskFilter);}
+	.st7{mask:url(#multiLayerMask_00000002371028950628433910000009273754567166067881_);}
+	.st8{fill:#80785F;}
+	.st9{fill:#FFFFFF;filter:url(#Adobe_OpacityMaskFilter_00000081613557555138357600000017291633329511252151_);}
+	.st10{mask:url(#topBoardSolderMask_00000116225873677601327560000000358866335044708483_);fill:#002966;}
+	.st11{fill:none;stroke:#DCAA14;stroke-width:0.72;stroke-linecap:round;stroke-miterlimit:2.88;}
+	.st12{fill:#DCAA14;stroke:#DCAA14;stroke-width:5.1024;stroke-miterlimit:2.88;}
+	.st13{fill:#FFFFFF;filter:url(#Adobe_OpacityMaskFilter_00000072973105855403217960000006825414505395820183_);}
+	.st14{mask:url(#topSignalSolderMask_00000137104838155695684640000001934311432320134531_);}
+	.st15{fill:none;stroke:#005CB6;stroke-width:0.72;stroke-linecap:round;stroke-miterlimit:2.88;}
+	.st16{fill:#005CB6;}
+	.st17{fill:#005CB6;stroke:#005CB6;stroke-width:5.1024;stroke-miterlimit:2.88;}
+	.st18{fill:none;stroke:#FFFFFF;stroke-width:0.5688;stroke-linecap:round;stroke-miterlimit:2.88;}
+	.st19{fill:none;stroke:#FFFFFF;stroke-width:0.576;stroke-miterlimit:2.88;}
+	.st20{display:none;}
+	.st21{display:inline;fill:none;stroke:#FFFFFF;stroke-width:0.432;stroke-miterlimit:2.88;}
+	.st22{fill:none;stroke:#FFFFFF;stroke-width:0.432;stroke-miterlimit:2.88;}
+	.st23{fill:none;stroke:#FFFFFF;stroke-width:0.2835;stroke-miterlimit:2.88;}
+	.st24{fill:none;stroke:#FFFFFF;stroke-width:0.7087;stroke-miterlimit:2.88;}
+	.st25{fill:#FFFFFF;}
+	.st26{fill:#FFFFFF;filter:url(#Adobe_OpacityMaskFilter_00000075136130517852088800000018310447534690344077_);}
+	.st27{display:none;mask:url(#bottomBoardSolderMask_00000163777595509634022210000007129099620777755277_);fill:#002966;}
+	.st28{display:inline;fill:#DCAA14;}
+	.st29{display:inline;fill:none;stroke:#DCAA14;stroke-width:0.72;stroke-linecap:round;stroke-miterlimit:2.88;}
+	.st30{display:inline;}
+	.st31{fill:#FFFFFF;filter:url(#Adobe_OpacityMaskFilter_00000018953536331956291900000010702663133787960478_);}
+	.st32{display:none;mask:url(#bottomSignalSolderMask_00000045595985261885931090000003400055015766621084_);}
+	.st33{display:inline;fill:#005CB6;}
+	.st34{display:inline;fill:none;stroke:#005CB6;stroke-width:0.72;stroke-linecap:round;stroke-miterlimit:2.88;}
+	.st35{font-family:'MyriadPro-Regular';}
+	.st36{font-size:13.9161px;}
+</style>
+<text transform="matrix(0.9756 0 0 1 192.1522 44.7749)" class="st35 st36">X</text>
+<g>
+	<g id="XMLID_00000117659938151574377190000008848654020159277208_">
+		<g>
+			<polygon class="st0" points="211.33,-0.33 211.33,25.11 181.1,25.11 150.87,25.11 120.65,25.11 120.65,-0.33 			"/>
+			<rect x="-0.26" y="-0.33" class="st0" width="120.91" height="25.44"/>
+		</g>
+		<g>
+			<polyline class="st1" points="-0.26,25.11 -0.26,-0.33 120.65,-0.33 			"/>
+			<polyline class="st1" points="120.65,152.33 -0.26,152.33 -0.26,25.11 120.65,25.11 			"/>
+			<polyline class="st1" points="120.65,25.11 120.65,-0.33 211.33,-0.33 211.33,25.11 			"/>
+			<polygon class="st1" points="211.33,25.11 211.33,50.56 211.33,76 211.33,101.45 211.33,126.89 211.33,152.33 181.1,152.33 
+				150.87,152.33 120.65,152.33 120.65,126.89 120.65,101.45 120.65,76 120.65,50.56 120.65,25.11 150.87,25.11 181.1,25.11 			"/>
+			<polyline class="st1" points="211.33,126.89 181.1,126.89 150.87,126.89 120.65,126.89 			"/>
+			<polyline class="st1" points="211.33,101.45 181.1,101.45 150.87,101.45 120.65,101.45 			"/>
+			<polyline class="st1" points="211.33,76 181.1,76 150.87,76 120.65,76 			"/>
+			<polyline class="st1" points="211.33,50.56 181.1,50.56 150.87,50.56 120.65,50.56 			"/>
+			<polyline class="st1" points="181.1,25.11 181.1,50.56 181.1,76 181.1,101.45 181.1,126.89 181.1,152.33 			"/>
+			<polyline class="st1" points="150.87,25.11 150.87,50.56 150.87,76 150.87,101.45 150.87,126.89 150.87,152.33 			"/>
+		</g>
+	</g>
+</g>
+<text transform="matrix(0.9756 0 0 1 138.0809 18.9282)" class="st35 st36">Truth Table</text>
+<text transform="matrix(0.9756 0 0 1 23.2088 19.0767)" class="st35 st36">Logic Symbol</text>
+<text transform="matrix(0.9756 0 0 1 130.826 44.6704)" class="st35 st36">A</text>
+<text transform="matrix(0.9756 0 0 1 162.2508 44.6704)" class="st35 st36">B</text>
+<text transform="matrix(0.9756 0 0 1 131.201 69.3706)" class="st35 st36">0</text>
+<text transform="matrix(0.9756 0 0 1 163.3406 69.52)" class="st35 st36">0</text>
+<text transform="matrix(0.9756 0 0 1 131.201 93.1792)" class="st35 st36">0</text>
+<text transform="matrix(0.9756 0 0 1 163.3406 93.3267)" class="st35 st36">1</text>
+<text transform="matrix(0.9756 0 0 1 131.6473 119.3667)" class="st35 st36">1</text>
+<text transform="matrix(0.9756 0 0 1 163.3406 119.3667)" class="st35 st36">0</text>
+<text transform="matrix(0.9756 0 0 1 132.9861 144.812)" class="st35 st36">1</text>
+<text transform="matrix(0.9756 0 0 1 163.3406 144.812)" class="st35 st36">1</text>
+<text transform="matrix(0.9756 0 0 1 192.5555 69.7427)" class="st35 st36">0</text>
+<text transform="matrix(0.9756 0 0 1 192.5555 93.4019)" class="st35 st36">0</text>
+<text transform="matrix(0.9756 0 0 1 192.5555 119.2925)" class="st35 st36">0</text>
+<text transform="matrix(0.9756 0 0 1 192.5555 144.8862)" class="st35 st36">1</text>
+<text transform="matrix(0.9756 0 0 1 435.0877 44.7749)" class="st35 st36">X</text>
+<g>
+	<g id="XMLID_00000008117236433275174100000000285258002691218050_">
+		<g>
+			<polygon class="st0" points="454.26,-0.33 454.26,25.11 424.04,25.11 393.81,25.11 363.58,25.11 363.58,-0.33 			"/>
+			<rect x="242.67" y="-0.33" class="st0" width="120.91" height="25.44"/>
+		</g>
+		<g>
+			<polyline class="st1" points="242.67,25.11 242.67,-0.33 363.58,-0.33 			"/>
+			<polyline class="st1" points="363.58,152.33 242.67,152.33 242.67,25.11 363.58,25.11 			"/>
+			<polyline class="st1" points="363.58,25.11 363.58,-0.33 454.26,-0.33 454.26,25.11 			"/>
+			<polygon class="st1" points="454.26,25.11 454.26,50.56 454.26,76 454.26,101.45 454.26,126.89 454.26,152.33 424.04,152.33 
+				393.81,152.33 363.58,152.33 363.58,126.89 363.58,101.45 363.58,76 363.58,50.56 363.58,25.11 393.81,25.11 424.04,25.11 			"/>
+			<polyline class="st1" points="454.26,126.89 424.04,126.89 393.81,126.89 363.58,126.89 			"/>
+			<polyline class="st1" points="454.26,101.45 424.04,101.45 393.81,101.45 363.58,101.45 			"/>
+			<polyline class="st1" points="454.26,76 424.04,76 393.81,76 363.58,76 			"/>
+			<polyline class="st1" points="454.26,50.56 424.04,50.56 393.81,50.56 363.58,50.56 			"/>
+			<polyline class="st1" points="424.04,25.11 424.04,50.56 424.04,76 424.04,101.45 424.04,126.89 424.04,152.33 			"/>
+			<polyline class="st1" points="393.81,25.11 393.81,50.56 393.81,76 393.81,101.45 393.81,126.89 393.81,152.33 			"/>
+		</g>
+	</g>
+</g>
+<text transform="matrix(0.9756 0 0 1 381.0164 18.9282)" class="st35 st36">Truth Table</text>
+<text transform="matrix(0.9756 0 0 1 266.1434 19.0767)" class="st35 st36">Logic Symbol</text>
+<text transform="matrix(0.9756 0 0 1 373.7615 44.6704)" class="st35 st36">A</text>
+<text transform="matrix(0.9756 0 0 1 405.1873 44.6704)" class="st35 st36">B</text>
+<text transform="matrix(0.9756 0 0 1 374.1356 69.3706)" class="st35 st36">0</text>
+<text transform="matrix(0.9756 0 0 1 406.2762 69.52)" class="st35 st36">0</text>
+<text transform="matrix(0.9756 0 0 1 374.1365 93.1792)" class="st35 st36">0</text>
+<text transform="matrix(0.9756 0 0 1 406.2762 93.3267)" class="st35 st36">1</text>
+<text transform="matrix(0.9756 0 0 1 374.5818 119.3667)" class="st35 st36">1</text>
+<text transform="matrix(0.9756 0 0 1 406.2762 119.3667)" class="st35 st36">0</text>
+<text transform="matrix(0.9756 0 0 1 375.9217 144.812)" class="st35 st36">1</text>
+<text transform="matrix(0.9756 0 0 1 406.2762 144.812)" class="st35 st36">1</text>
+<text transform="matrix(0.9756 0 0 1 435.4901 69.7427)" class="st35 st36">0</text>
+<text transform="matrix(0.9756 0 0 1 435.4901 144.8862)" class="st35 st36">1</text>
+<text transform="matrix(0.9756 0 0 1 435.9705 92.9136)" class="st35 st36">1</text>
+<text transform="matrix(0.9756 0 0 1 435.3748 119.5483)" class="st35 st36">1</text>
+<text transform="matrix(0.9756 0 0 1 678.0643 45.1079)" class="st35 st36">X</text>
+<g>
+	<g id="XMLID_00000097495192371197193930000009973488732977415808_">
+		<g>
+			<polygon class="st0" points="697.24,0 697.24,25.44 667.01,25.44 636.79,25.44 606.56,25.44 606.56,0 			"/>
+			<rect x="485.65" y="0" class="st0" width="120.91" height="25.44"/>
+		</g>
+		<g>
+			<polyline class="st1" points="485.65,25.44 485.65,0 606.56,0 			"/>
+			<polyline class="st1" points="606.56,152.67 485.65,152.67 485.65,25.44 606.56,25.44 			"/>
+			<polyline class="st1" points="606.56,25.44 606.56,0 697.24,0 697.24,25.44 			"/>
+			<polygon class="st1" points="697.24,25.44 697.24,50.89 697.24,76.33 697.24,101.78 697.24,127.22 697.24,152.67 667.01,152.67 
+				636.79,152.67 606.56,152.67 606.56,127.22 606.56,101.78 606.56,76.33 606.56,50.89 606.56,25.44 636.79,25.44 667.01,25.44 			
+				"/>
+			<polyline class="st1" points="697.24,127.22 667.01,127.22 636.79,127.22 606.56,127.22 			"/>
+			<polyline class="st1" points="697.24,101.78 667.01,101.78 636.79,101.78 606.56,101.78 			"/>
+			<polyline class="st1" points="697.24,76.33 667.01,76.33 636.79,76.33 606.56,76.33 			"/>
+			<polyline class="st1" points="697.24,50.89 667.01,50.89 636.79,50.89 606.56,50.89 			"/>
+			<polyline class="st1" points="667.01,25.44 667.01,50.89 667.01,76.33 667.01,101.78 667.01,127.22 667.01,152.67 			"/>
+			<polyline class="st1" points="636.79,25.44 636.79,50.89 636.79,76.33 636.79,101.78 636.79,127.22 636.79,152.67 			"/>
+		</g>
+	</g>
+</g>
+<text transform="matrix(0.9756 0 0 1 623.993 19.2622)" class="st35 st36">Truth Table</text>
+<text transform="matrix(0.9756 0 0 1 509.1209 19.4106)" class="st35 st36">Logic Symbol</text>
+<text transform="matrix(0.9756 0 0 1 616.7381 45.0034)" class="st35 st36">A</text>
+<text transform="matrix(0.9756 0 0 1 648.1629 45.0034)" class="st35 st36">B</text>
+<text transform="matrix(0.9756 0 0 1 617.1131 69.7036)" class="st35 st36">0</text>
+<text transform="matrix(0.9756 0 0 1 649.2527 69.853)" class="st35 st36">0</text>
+<text transform="matrix(0.9756 0 0 1 617.1131 93.5122)" class="st35 st36">0</text>
+<text transform="matrix(0.9756 0 0 1 649.2527 93.6606)" class="st35 st36">1</text>
+<text transform="matrix(0.9756 0 0 1 617.5594 119.7007)" class="st35 st36">1</text>
+<text transform="matrix(0.9756 0 0 1 649.2527 119.7007)" class="st35 st36">0</text>
+<text transform="matrix(0.9756 0 0 1 618.8983 145.145)" class="st35 st36">1</text>
+<text transform="matrix(0.9756 0 0 1 649.2527 145.145)" class="st35 st36">1</text>
+<text transform="matrix(0.9756 0 0 1 678.0369 69.9858)" class="st35 st36">1</text>
+<text transform="matrix(0.9756 0 0 1 677.7751 92.9409)" class="st35 st36">1</text>
+<text transform="matrix(0.9756 0 0 1 677.775 118.9399)" class="st35 st36">1</text>
+<text transform="matrix(0.9756 0 0 1 676.7751 144.9399)" class="st35 st36">0</text>
+<text transform="matrix(0.9756 0 0 1 192.2868 234.8862)" class="st35 st36">X</text>
+<g>
+	<g id="XMLID_00000149383399000072058490000011507136760254486175_">
+		<g>
+			<polygon class="st0" points="211.46,189.78 211.46,215.22 181.23,215.22 151.01,215.22 120.78,215.22 120.78,189.78 			"/>
+			<rect x="-0.13" y="189.78" class="st0" width="120.91" height="25.44"/>
+		</g>
+		<g>
+			<polyline class="st1" points="-0.13,215.22 -0.13,189.78 120.78,189.78 			"/>
+			<polyline class="st1" points="120.78,342.44 -0.13,342.44 -0.13,215.22 120.78,215.22 			"/>
+			<polyline class="st1" points="120.78,215.22 120.78,189.78 211.46,189.78 211.46,215.22 			"/>
+			<polygon class="st1" points="211.46,215.22 211.46,240.67 211.46,266.11 211.46,291.56 211.46,317 211.46,342.44 181.23,342.44 
+				151.01,342.44 120.78,342.44 120.78,317 120.78,291.56 120.78,266.11 120.78,240.67 120.78,215.22 151.01,215.22 181.23,215.22 
+							"/>
+			<polyline class="st1" points="211.46,317 181.23,317 151.01,317 120.78,317 			"/>
+			<polyline class="st1" points="211.46,291.56 181.23,291.56 151.01,291.56 120.78,291.56 			"/>
+			<polyline class="st1" points="211.46,266.11 181.23,266.11 151.01,266.11 120.78,266.11 			"/>
+			<polyline class="st1" points="211.46,240.67 181.23,240.67 151.01,240.67 120.78,240.67 			"/>
+			<polyline class="st1" points="181.23,215.22 181.23,240.67 181.23,266.11 181.23,291.56 181.23,317 181.23,342.44 			"/>
+			<polyline class="st1" points="151.01,215.22 151.01,240.67 151.01,266.11 151.01,291.56 151.01,317 151.01,342.44 			"/>
+		</g>
+	</g>
+</g>
+<text transform="matrix(0.9756 0 0 1 138.2155 209.0396)" class="st35 st36">Truth Table</text>
+<text transform="matrix(0.9756 0 0 1 23.3425 209.188)" class="st35 st36">Logic Symbol</text>
+<text transform="matrix(0.9756 0 0 1 130.9607 234.7817)" class="st35 st36">A</text>
+<text transform="matrix(0.9756 0 0 1 162.3855 234.7817)" class="st35 st36">B</text>
+<text transform="matrix(0.9756 0 0 1 131.3347 259.4819)" class="st35 st36">0</text>
+<text transform="matrix(0.9756 0 0 1 163.4753 259.6313)" class="st35 st36">0</text>
+<text transform="matrix(0.9756 0 0 1 131.3347 283.2905)" class="st35 st36">0</text>
+<text transform="matrix(0.9756 0 0 1 163.4753 283.438)" class="st35 st36">1</text>
+<text transform="matrix(0.9756 0 0 1 131.781 309.478)" class="st35 st36">1</text>
+<text transform="matrix(0.9756 0 0 1 163.4753 309.478)" class="st35 st36">0</text>
+<text transform="matrix(0.9756 0 0 1 133.1208 334.9233)" class="st35 st36">1</text>
+<text transform="matrix(0.9756 0 0 1 163.4753 334.9233)" class="st35 st36">1</text>
+<text transform="matrix(0.9756 0 0 1 192.2429 259.4819)" class="st35 st36">1</text>
+<text transform="matrix(0.9756 0 0 1 192.1105 309.1587)" class="st35 st36">0</text>
+<text transform="matrix(0.9756 0 0 1 194.11 283.1577)" class="st35 st36">0</text>
+<text transform="matrix(0.9756 0 0 1 192.1105 335.1587)" class="st35 st36">1</text>
+<text transform="matrix(0.9756 0 0 1 434.6999 235.0137)" class="st35 st36">X</text>
+<g>
+	<g id="XMLID_00000103224915396311237280000012471878889397159058_">
+		<g>
+			<polygon class="st0" points="363.19,189.91 453.88,189.91 453.88,215.35 423.65,215.35 393.42,215.35 363.19,215.35 			"/>
+			<rect x="242.28" y="189.91" class="st0" width="120.91" height="25.44"/>
+		</g>
+		<g>
+			<polyline class="st1" points="242.28,215.35 242.28,189.91 363.19,189.91 			"/>
+			<polyline class="st1" points="363.19,342.57 242.28,342.57 242.28,215.35 363.19,215.35 			"/>
+			<polyline class="st1" points="363.19,215.35 363.19,189.91 453.88,189.91 453.88,215.35 			"/>
+			<polygon class="st1" points="453.88,215.35 453.88,240.79 453.88,266.24 453.88,291.68 453.88,317.13 453.88,342.57 
+				423.65,342.57 393.42,342.57 363.19,342.57 363.19,317.13 363.19,291.68 363.19,266.24 363.19,240.79 363.19,215.35 
+				393.42,215.35 423.65,215.35 			"/>
+			<polyline class="st1" points="453.88,317.13 423.65,317.13 393.42,317.13 363.19,317.13 			"/>
+			<polyline class="st1" points="453.88,291.68 423.65,291.68 393.42,291.68 363.19,291.68 			"/>
+			<polyline class="st1" points="453.88,266.24 423.65,266.24 393.42,266.24 363.19,266.24 			"/>
+			<polyline class="st1" points="453.88,240.79 423.65,240.79 393.42,240.79 363.19,240.79 			"/>
+			<polyline class="st1" points="423.65,215.35 423.65,240.79 423.65,266.24 423.65,291.68 423.65,317.13 423.65,342.57 			"/>
+			<polyline class="st1" points="393.42,215.35 393.42,240.79 393.42,266.24 393.42,291.68 393.42,317.13 393.42,342.57 			"/>
+		</g>
+	</g>
+</g>
+<text transform="matrix(0.9756 0 0 1 380.6286 209.168)" class="st35 st36">Truth Table</text>
+<text transform="matrix(0.9756 0 0 1 265.7555 209.3164)" class="st35 st36">Logic Symbol</text>
+<text transform="matrix(0.9756 0 0 1 373.3737 234.9092)" class="st35 st36">A</text>
+<text transform="matrix(0.9756 0 0 1 404.7995 234.9092)" class="st35 st36">B</text>
+<text transform="matrix(0.9756 0 0 1 373.7477 259.6094)" class="st35 st36">0</text>
+<text transform="matrix(0.9756 0 0 1 405.8883 259.7588)" class="st35 st36">0</text>
+<text transform="matrix(0.9756 0 0 1 373.7487 283.418)" class="st35 st36">0</text>
+<text transform="matrix(0.9756 0 0 1 405.8883 283.5664)" class="st35 st36">1</text>
+<text transform="matrix(0.9756 0 0 1 374.194 309.6064)" class="st35 st36">1</text>
+<text transform="matrix(0.9756 0 0 1 405.8883 309.6064)" class="st35 st36">0</text>
+<text transform="matrix(0.9756 0 0 1 375.5338 335.0508)" class="st35 st36">1</text>
+<text transform="matrix(0.9756 0 0 1 405.8883 335.0508)" class="st35 st36">1</text>
+<text transform="matrix(0.9756 0 0 1 435.1022 259.9824)" class="st35 st36">0</text>
+<g>
+	<g>
+		<g id="XMLID_00000069364047179671269710000015838648076593028764_">
+			<g>
+				<polygon class="st0" points="583.91,189.65 681.05,189.65 681.05,227.85 632.48,227.85 583.91,227.85 				"/>
+				<rect x="486.77" y="189.65" class="st0" width="97.14" height="38.2"/>
+			</g>
+			<g>
+				<polyline class="st1" points="486.77,227.85 486.77,189.65 583.91,189.65 				"/>
+				<polyline class="st1" points="583.91,342.47 486.77,342.47 486.77,227.85 583.91,227.85 				"/>
+				<polyline class="st1" points="583.91,227.85 583.91,189.65 681.05,189.65 681.05,227.85 				"/>
+				<polygon class="st1" points="681.05,227.85 681.05,266.06 681.05,304.26 681.05,342.47 632.48,342.47 583.91,342.47 
+					583.91,304.26 583.91,266.06 583.91,227.85 632.48,227.85 				"/>
+				<polyline class="st1" points="681.05,304.26 632.48,304.26 583.91,304.26 				"/>
+				<polyline class="st1" points="681.05,266.06 632.48,266.06 583.91,266.06 				"/>
+				<polyline class="st1" points="632.48,342.47 632.48,304.26 632.48,266.06 632.48,227.85 				"/>
+			</g>
+		</g>
+	</g>
+</g>
+<text transform="matrix(0.9756 0 0 1 490.3786 214.3672)" class="st35 st36">Logic Symbol</text>
+<text transform="matrix(0.9756 0 0 1 601.1276 214.417)" class="st35 st36">Truth Table</text>
+<text transform="matrix(0.9756 0 0 1 601.3298 254.4854)" class="st35 st36">A</text>
+<text transform="matrix(0.9756 0 0 1 651.5036 254.4854)" class="st35 st36">X</text>
+<text transform="matrix(0.9756 0 0 1 601.7048 291.8994)" class="st35 st36">0</text>
+<text transform="matrix(0.9756 0 0 1 651.4509 328.6943)" class="st35 st36">0</text>
+<text transform="matrix(0.9756 0 0 1 651.8981 291.0479)" class="st35 st36">1</text>
+<text transform="matrix(0.9756 0 0 1 601.7048 328.7432)" class="st35 st36">1</text>
+<text transform="matrix(0.9756 0 0 1 434.0682 309.439)" class="st35 st36">1</text>
+<text transform="matrix(0.9756 0 0 1 434.0674 283.4385)" class="st35 st36">1</text>
+<text transform="matrix(0.9756 0 0 1 434.0682 335.439)" class="st35 st36">0</text>
+</svg>
