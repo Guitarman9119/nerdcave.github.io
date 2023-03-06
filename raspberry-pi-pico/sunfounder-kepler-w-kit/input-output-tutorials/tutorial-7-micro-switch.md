@@ -2,13 +2,13 @@
 
 ### Components Needed
 
-| Component           |   |
-| ------------------- | - |
-| Raspberry Pi Pico W |   |
-| Micro USB Cable     |   |
-| Breadboard          |   |
-| Wires               |   |
-| Resistor            |   |
+| Component           |         |
+| ------------------- | ------- |
+| Raspberry Pi Pico W | 1       |
+| Micro USB Cable     | 1       |
+| Breadboard          | 1       |
+| Wires               | several |
+| Resistor            |         |
 
 ### Fritzing Diagram
 
