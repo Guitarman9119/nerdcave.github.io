@@ -69,7 +69,7 @@ These lines initialize the `led` list. We start by appending `None` to the list 
 while True:
     for i in range(10):
         led[i].toggle()
-        utime.sleep(0.2)py
+        utime.sleep(0.2)
 ```
 
 These lines define the main loop of the program. The loop runs indefinitely (`while True:`), and each iteration of the loop toggles the state of each LED in the `led` list using the `toggle()` method of the `Pin` class. This causes each LED to turn on and off in sequence, creating a visual effect similar to a progress bar or scrolling marquee. We also use `utime.sleep(0.2)` to pause the program for 200 milliseconds (0.2 seconds) between each LED toggle, which controls the speed of the animation.
